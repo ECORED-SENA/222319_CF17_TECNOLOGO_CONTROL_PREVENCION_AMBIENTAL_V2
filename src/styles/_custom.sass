@@ -10,10 +10,45 @@
     top: 51%
     right: 30%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+.bg-1
+  background-image: url('../assets/curso/temas/bg1.svg')
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+.bg-2
+  background-image: url('../assets/curso/temas/bg2.svg')
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  margin-top: -3rem
+  margin: -3rem -3rem 3rem -3rem
+.bg-slyde
+  background-image: url('../assets/curso/temas/bg-slyde.svg')
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  .slyder-a__btn--sigt, .slyder-a__btn--atrss
+    background-color: $color-acento-botones !important
+    opacity: 1
+  .slyder-a__bullets__item
+    background-color: $color-acento-contenido
+    border: 0
+.acordion__activo
+  background-color: #e2eacb
+.acordion-icon
+  i
+    color: $color-acento-botones
+.tabla-e
+  thead
+    th
+      background-color: $color-acento-contenido
+  tr:nth-child(odd)
+    background-color: #f6f6f6
+  tr:nth-child(even)
+    background-color: #ffffff

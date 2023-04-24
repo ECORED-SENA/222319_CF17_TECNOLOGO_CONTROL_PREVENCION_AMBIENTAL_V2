@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Control de la operación de los sistemas de tratamiento de aguas residuales ',
+    descripcionCurso:
+      'En este componente formativo se establecen los criterios para el aprendizaje integral del control de vertimientos, de acuerdo con lineamientos técnicos y legales a nivel nacional. Todo ello, teniendo en cuenta las necesidades de los sectores económicos colombianos, el desarrollo tecnológico y la innovación en equipos, materiales y sistemas de tratamientos eficientes en la recolección, manejo, evacuación, diseños, construcción, puesta en marcha, operación y mantenimiento de los sistemas de tratamiento de aguas residuales. ',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
