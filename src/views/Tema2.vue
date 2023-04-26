@@ -655,23 +655,226 @@
                 span.fst-italic Partes de un filtro percolador
               img(src='@/assets/curso/temas/tema2/44.jpg', alt='')
               figcaption Nota. Tomado de filtropercolador (2019). https://filtropercolador.blogspot.com/2019/03/1.html  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
+      h4.mb-0 Contactores biológicos rotativos: biodiscos y biocilindros
+    p.mb-5(data-aos='fade-right') Los contactores biológicos rotativos están basados en los procesos biológicos aerobios. Estos requieren un contacto íntimo entre el agua residual, la biomasa activa y el oxígeno. Consisten en una serie de placas o discos colocados en un eje horizontal que giran lentamente dentro del tanque que contiene el agua residual, con un 49% de la superficie sumergida. Sobre la superficie de los discos se fija la biomasa que se encuentra alternativamente en contacto con el agua residual y el aire. Esto posibilita la ingestión de la materia orgánica por parte de los microorganismos y su posterior degradación en presencia del oxígeno del aire (Cyclusid, 2020), ver figura 28.  
+    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+      h5 Figura 28
+      br 
+      span.fst-italic Unidad de tratamiento por biodiscos
+    .row.justify-content-center.mb-4
+      .col-lg-6(data-aos="fade-right").mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema2/45.jpg', alt='')
+      .col-lg-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/46.jpg', alt='')
+      figcaption Nota. Tomado de Pedraza (2018). Unidad de tratamiento por biodiscos - feria FIMA. 
+    .bg-1.mn.p-5.mb-5
+      .row.justify-content-center.mb-5
+        .col-lg-6.mb-lg-0.mb-3
+          h4 Los biocilindros
+          p Son una variante de los biodiscos, su principal diferencia es la sustitución de los discos por biocilindros, están formados por una malla metálica, cuyo interior se rellena de piezas de plástico que sirven de soporte a la biomasa. En estos sistemas se produce un exceso de biomasa que se desprende del contactor, esta se mantiene en suspensión en el tanque gracias al movimiento del material soporte. Para regular la cantidad de microorganismos presentes en el sistema se dispone de un clarificador o decantador secundario, en él se produce la sedimentación del exceso de biomasa (Cyclusid, 2020), ver figura 29. 
+          h4 Características notables del proceso con biodiscos 
+          p Notable elasticidad, es decir, es capaz de absorber elevadas puntas de carga orgánica e hidráulica, manteniendo muy estables los niveles de salida. No requiere recirculación de fangos; el fango activo del proceso es el que permanece adherido a los discos. Si la carga aumenta, la película bacteriana crece espontáneamente y los sólidos en suspensión a la salida del biodisco disminuyen. Si la carga disminuye, la biomasa se desprende y aumentan los sólidos en el efluente al decantador secundario. No es necesario controlar la concentración del licor de mezcla, ya que el fango extraído es un desecho del proceso y ha de eliminarse como mejor convenga. 
+        .col-lg-6(data-aos="fade-left")
+          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            h5 Figura 29
+            br
+            span.fst-italic  Esquema del sistema de biodiscos 
+          img(src='@/assets/curso/temas/tema2/47.jpg', alt='')
+          figcaption Nota. Tomado de Delgado (2018). http://revistas.uni.edu.pe/index.php/tecnia/article/view/545/1076  
+      h4 Ruidos y otras variables 
+      p.mb-5(data-aos='fade-right') El nivel de ruidos es muy bajo, factor que es muy importante tanto ambientalmente como por higiene y salud del personal. Las dimensiones de los depósitos de oxidación son menores que los utilizados por otros procesos. El rendimiento del proceso es más estable en épocas frías, debido al hecho de permanecer cubiertos los tanques. El consumo energético es muy reducido y a igualdad de resultados, comparándolo con un sistema de fangos activos, el consumo resulta ser la tercera parte Hidrometalica (s.f.). 
+      h4 El funcionamiento de los biodiscos
+      p Se divide en cuatro etapas, ver figura 30. 
+      .row.justify-content-center.mb-5
+        .col-lg-10
+          .rounded-2.p-5(style="background-color: #dee9f0 ")
+            .row.justify-content-center.mb-5
+              .col-lg-8
+                .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+                  h5 Figura 30
+                  br
+                  span.fst-italic Biodiscos
+                img(src='@/assets/curso/temas/tema2/48.jpg', alt='')
+                figcaption Nota. Tomado de Hidrometalica (s.f.). https://hidrometalica.com/biodiscos/  
+      h4 El agua bruta 
+      p.mb-0(data-aos='fade-right') El agua bruta de llegada entra a este tanque a través de la tubuladura de entrada, donde se produce una primera sedimentación de materia sólida. Los sólidos sedimentados se extraerán periódicamente por parte del usuario en la primera etapa donde se realiza la primera toma de contacto entre el agua bruta de entrada y los discos. La superficie de los discos se coloniza de forma natural, formando un recubrimiento visible. En la segunda etapa de contacto, gracias a la concepción del sistema de vertedero entre ambas etapas, se consigue un nivel de agua con menos fluctuaciones, favoreciendo el proceso y su salida hacia el “tanque de sedimentación secundaria”. Con el proceso de dos etapas se consigue aumentar el crecimiento de la biomasa de forma equilibrada y constante. En el tanque de sedimentación secundaria se produce la sedimentación de la materia sólida restante del proceso, a la cual se le realizan dos operaciones, la recirculación y extracción de sedimentos (Hidrometálica, s.f.). 
+    .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
+      h4.mb-0 Reactores biológicos secuenciales (SBR)
+    p.mb-5(data-aos='fade-right') Son reactores discontinuos en los que el agua residual se mezcla con un lodo biológico en un medio aireado. Se trata de un proceso que se combina en un mismo tanque: aeración/reacción y clarificación. La tecnología de los reactores biológicos secuenciales es una variante optimizada de la tecnología convencional de lodos activados. Se basa en el uso de un solo reactor que opera en forma discontinua secuencial. El sistema de los reactores biológicos secuenciales SBR consta de al menos cuatro procesos cíclicos: llenado, aireación, anoxia, decantación y vaciado, tanto de efluente como de los lodos. Esta tecnología es capaz de tolerar variaciones de carga y caudal y genera como producto lodos estabilizados, siendo en ocasiones, la tecnología más apropiada para la industria, ver figura 31 y 32. 
+    .row.justify-content-center.mb-5
+      .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 31
+          br
+          span.fst-italic Instalación con tecnología SBR 
+        img(src='@/assets/curso/temas/tema2/49.png', alt='')
+        figcaption Nota. Tomado de Aguas industriales (2015). Instalación con tecnología SBR.
+      .col-lg-6(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 32
+          br
+          span.fst-italic Planta de tratamiento de aguas residuales reactor biológico secuencial (SBR)  
+        img(src='@/assets/curso/temas/tema2/50.png', alt='')
+        figcaption Nota. Tomado de Gv soluciones (s.f.). https://studylib.es/doc/4574213/planta-de-tratamiento-de-aguas-residuales-reactor-biol%C3%B3gico  
+    p.mb-5(data-aos='fade-right') Se debe considerar que el tratamiento de aguas residuales mediante SBR se lleva a cabo en secuencia en 4 etapas: 
+    .row.justify-content-center.mb-5
+      .col-lg-3.mb-lg-0.mb-3(data-aos="fade-right")
+        .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
+          img(src='@/assets/curso/temas/tema2/51.svg', alt='' style='width:58px').m-auto.mb-3
+          p #[b Etapa de llenado:] es cuando se añade el sustrato al reactor. Según los objetivos previstos esta etapa puede ser estática, mezclada o aireada.
+      .col-lg-3.mb-lg-0.mb-3(data-aos="fade-right")
+        .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
+          img(src='@/assets/curso/temas/tema2/52.svg', alt='' style='width:58px').m-auto.mb-3
+          p #[b Etapa de reacción:] las necesidades del tratamiento dictarán si el reactor se somete o no a aireación. Aquí se proveen condiciones de mezcla en las que se permite el consumo de sustrato en condiciones ambientales controladas. 
+      .col-lg-3.mb-lg-0.mb-3(data-aos="fade-right")
+        .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
+          img(src='@/assets/curso/temas/tema2/53.svg', alt='' style='width:58px').m-auto.mb-3
+          p #[b Sedimentación:] permite la separación de sólidos en condiciones de quietud. El resultado es un sobrenadante clarificado que se puede descargar como efluente. Generalmente, el tiempo de asentamiento varía entre media hora y una hora y media. Este proceso previene que el manto de sólidos flote, debido a la acumulación de gas. 
+      .col-lg-3.mb-lg-0.mb-3(data-aos="fade-right")
+        .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
+          img(src='@/assets/curso/temas/tema2/54.svg', alt='' style='width:58px').m-auto.mb-3
+          p #[b Vaciado:] extracción del agua clarificada del reactor. El exceso de lodo activado residual es removido; este proceso toma tiempo, puede tardar entre un 5% y un 30% del tiempo total (Domos agua, 2019). 
+    .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
+      h4.mb-0 Filtros verdes y humedales artificiales
+    .row.justify-content-center.mb-5
+      .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")
+        p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 33.
+        .tarjeta.p-4(style="background-color: #fdf8e4 ")
+          h4 Filtros verdes
+          p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 34.
+          .row.justify-content-center.mb-5
+            .col-lg-10 
+              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+                h5 Figura 34 
+                br
+                span.fst-italic Tratamiento de aguas residuales mediante humedales artificiales 
+              img(src='@/assets/curso/temas/tema2/57.png', alt='')
+              figcaption Nota. Tomado de Construyored (2018). https://construyored.com/oportunidades/6216-tratamiento-de-aguas-residuales-mediante-humedales-artificiales-el-sistema-frances-i  
+          h4 Depuración de los filtros verdes 
+          p De acuerdo con la Universidad Veracruzana los mecanismos de depuración de los filtros verdes son, en primera instancia, los procesos físicos: granulometría y textura. Luego, procesos químicos: pH, capacidad de intercambio iónico, condiciones de aireación y encharcamiento. En tercer lugar, procesos biológicos: raíces, microorganismos (Universidad Veracruzana, s.f.), ver figura 35. 
+          .row.justify-content-center.mb-5
+            .col-lg-10 
+              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+                h5 Figura 35
+                br
+                span.fst-italic Bioingeniería
+              img(src='@/assets/curso/temas/tema2/58.png', alt='')
+              figcaption Nota. Tomado de la Universidad Veracruzana (s.f.). https://sites.google.com/site/bioingenieriauv15/unidad-1-sistemas-de-depuracion-de-agua/1-3-filtros-verdes  
+      .col-lg-4.col-8
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 33
+          br
+          span.fst-italic Filtros verdes en depuración de aguas residuales. 
+        img(src='@/assets/curso/temas/tema2/59.png', alt='')
+        fitgcaption Nota. Tomado de TECPA (2018). https://www.tecpa.es/filtro-verde-depuracion-aguas-residuales
+        img(src='@/assets/curso/temas/tema2/60.jpg', alt='').d-none.d-lg-block
+    .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
+      h4.mb-0  Reactor biológico de membrana (MBR)
+    .row.justify-content-center.mb-5
+      .col-lg-5.mb-lg-0.mb-3(data-aos="fade-right")
+        p #[b (Reactor biológico + ultrafiltración)] se incluyen en las denominadas tecnologías de membrana, las cuales han experimentado un gran desarrollo en la última década. La aplicación de estas tecnologías a los MBR permite la separación del fango y el líquido mediante membranas, obteniendo ventajas importantes frente a la separación en los tradicionales decantadores secundarios. El aumento de la demanda de agua ha impulsado la implantación de estos sistemas a escala real, especialmente en aquellos casos en que se plantea la posibilidad de reutilización de agua (Universidad de Alcalá, 2007), ver figura 36. 
+      .col-lg-7.col-8
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 35 
+          br
+          span.fst-italic  Biorreactor de membrana
+        img(src='@/assets/curso/temas/tema2/61.png', alt='')
+        figcaption Nota. Tomado de Bioazul (s.f). https://www.bioazul.com/mbr-biorreactor-de-membrana/  
+    .row.justify-content-center.mb-5
+      .col-lg-6.mb-lg-0.mb-3
+        h4 Agua filtrada por membrana
+        p Su funcionamiento se basa en que el agua del reactor biológico es filtrada pasando a través de las paredes de una membrana, debido a una pequeña depresión producida por una bomba centrífuga. El agua filtrada es extraída del sistema mientras el fango y los compuestos de tamaño superior al poro de la membrana quedan retenidos y permanecen o retornan al reactor biológico (Universidad de Alcalá, 2007). 
+      .col-lg-6
+        h4 Contralavado
+        p Este ciclo se alterna con un corto contralavado, en el que se invierte el sentido del flujo para forzar el paso del agua filtrada desde el interior al exterior de la membrana para limpiarla. Periódicamente, en función del grado de ensuciamiento se realizan limpiezas químicas en profundidad de las membranas mediante su inmersión en una solución de limpieza (Universidad de Alcalá, 2007). 
+    .p-5.px-1(style="background-color: #d9e2f4").mb-5
+      .row.justify-content-center
+        .col-lg-3
+          h4 MBR y sus partes 
+          p De acuerdo con Remtamavares, los MBR están compuestos por dos partes principales: 
+        .col-lg-4.mb-lg-0.mb-3
+          .card-icon.h-100 
+            .card-icon__icon: img(src='@/assets/curso/temas/tema2/62.svg', alt='')
+            .card-icon__info
+              p.mb-0 - #[b Reactor biológico:] responsable de la degradación de los compuestos presentes en el agua residual.
+        .col-lg-4
+          .card-icon.h-100 
+            .card-icon__icon: img(src='@/assets/curso/temas/tema2/63.svg', alt='')
+            .card-icon__info
+              p.mb-0 - #[b Módulo de membranas:] encargado de llevar a cabo la separación física del licor de mezcla (Universidad de Alcalá, 2007).
+    .row.justify-content-center.mb-5
+      .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
+        h4 Configuraciones básicas
+        p Membranas o sistemas sumergidos: las membranas se sitúan dentro del propio reactor biológico, eliminando las necesidades de bombeo y aprovechando la agitación mecánica de la aireación (Universidad de Alcalá, 2007), ver figura 37.
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5  Figura 37
+          br
+          span.fst-italic Membranas sumergidas
+        img(src='@/assets/curso/temas/tema2/64.png', alt='')
+        figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
+      .col-lg-6(data-aos="fade-right")
+        h4 Membranas externas o sistema de bucle externo 
+        p El contenido del reactor biológico se bombea al módulo de membranas. Las ventajas de este modelo residen en que el propio módulo de membranas sirve de contenedor de limpieza para las mismas y se evita su manipulación (Universidad de Alcalá, 2007), ver figura 38. 
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 38
+          br
+          span.fst-italic Membranas externas 
+        img(src='@/assets/curso/temas/tema2/65.png', alt='')
+        figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
+    .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
+      h4.mb-0 Electrocoagulación
+    .row.justify-content-center.mb-5
+      .col-lg-8(data-aos="fade-right")
+        p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 39. 
+        .tarjeta.p-4(style="background-color: #fdf8e4 ")
+          h4 Desestabilización de los coloides 
+          p.mb-5  Mediante el procedimiento de electrocoagulación se aplica una diferencia de potencial a unos electrodos metálicos (normalmente aluminio y/o hierro). De esta forma, se produce una rápida desestabilización de los coloides por aplicación eléctrica y disolución de iones metálicos de los electrodos empleados. 
+          h4 Desinfección de bacterias, virus y parásitos 
+          p La consecuencia es una importante reducción en el contenido en sólidos en suspensión y eliminación de la DQO y DBO5, debido fundamentalmente a la desestabilización de los coloides, la decantación y separación de materia orgánica, aceites, grasas y metales pesados, así como iones, calcio y magnesio. Por otra parte, también se produce la desinfección de bacterias, virus o parásitos (Hidritec, s.f.), ver figura 40 un ejemplo gráfico de electrocoagulación. 
+          .row.justify-content-center.mb-5
+            .col-lg-10
+              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+                h5 Figura 34 
+                br
+                span.fst-italic Electrocoagulación
+              img(src='@/assets/curso/temas/tema2/66.png', alt='')
+              figcaption Nota. Tomado de Hidritec (s.f). Electrocoagulación (Anexos / Figura 46) http://www.hidritec.com/hidritec/electrocoagulacion 
+          h4 Eliminación de sólidos, aceites y grasas 
+          p.mb-5 El sistema se suministra en una planta premontada con la parrilla de electrodos en forma de placas y dimensionada para el caso concreto, incluyendo el cuadro de control y potencia del equipo. De forma habitual, se suministra con un sistema de decantación lamelar o separador por flotación DAF para lograr un mayor rendimiento en la eliminación de los sólidos, aceites y grasas desestabilizados.  
+          h4 Biodegradabilidad
+          p El sistema es apropiado para aguas residuales de tipo industrial con altas cargas de DQO, sólidos en suspensión, grasas, aceites y color como tratamiento único o bien como pretratamiento biológico, mejorando la biodegradabilidad del agua residual (Hidritec, s.f.). 
+      .col-lg-4.col-8 
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 39 
+          br 
+          span.fst-italic Electrocoagulación
+        img(src='@/assets/curso/temas/tema2/67.png', alt='')
+        figcaption.mb-4 Nota. Tomado de Hidritec (s.f.). http://www.hidritec.com/hidritec/electrocoagulacion  
+        img(src='@/assets/curso/temas/tema2/68.jpg', alt='').d-none.d-lg-block 
+    Separador 
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.4 Tratamientos terciarios del agua residual 
+    .row.justify-content-center.mb-5
+      .col-lg-5.col-8(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/69.svg', alt='')
+      .col-lg-7(data-aos="fade-right")
+        p La finalidad de los tratamientos terciarios es eliminar la carga orgánica residual y aquellas otras sustancias contaminantes no eliminadas en los tratamientos secundarios, como por ejemplo, los nutrientes, fósforo y nitrógeno. Estos procesos son de naturaleza biológica o fisicoquímica, siendo el proceso unitario más empleado el tratamiento fisicoquímico. Este consta de una coagulación – floculación y una decantación (Cyclusid depuración industrial, s.f.). 
+          br
+          br
+          |Otros procesos empleados como tratamientos terciarios son las resinas de intercambios de iones, la adsorción en carbón activo, la ultrafiltración, la ósmosis inversa, la electrodesinfección, las membranas cerámicas, etc. 
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .tarjeta.color-primario.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema2/pdf.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col-10.mb-3.mb-sm-0
+                  h4.mb-1.fw-normal Para realizar un estudio profundo y pertinente sobre los tratamientos terciarios del agua residual, diríjase al Anexo_1_TratamientosTerciariosAguaResigual y analice cabalmente el documento. Recuerde llevar registro de los aspectos más relevantes.
+                  p.text-small Anexo1 _Anexo_1_TratamientosTerciariosAguaResigual
+                .col.mb-3.mb-sm-0
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo1.pdf')" target="_blank" type="application/pdf")
+                    span Descargar 
+                    i.fas.fa-file-download
 
 
 
