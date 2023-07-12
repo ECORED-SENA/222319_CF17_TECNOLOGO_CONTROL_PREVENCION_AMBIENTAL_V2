@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
+  BannerInterno(icono="fas fa-question-circle" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
@@ -10,8 +10,8 @@
             img(src="@/assets/template/arrastrar_soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Sistemas para el tratamiento físico, químico y biológico del agua residual
-        p.mb-4 En esta actividad el aprendiz debe seleccionar el nombre del equipo y colocarlo encima de la imagen.
+          h2 Tratamiento del lodo
+        p.mb-4 Reconocer los vertimientos según sus procesos productivos a través de la identificación del tratamiento del lodo según la normatividad colombiana.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

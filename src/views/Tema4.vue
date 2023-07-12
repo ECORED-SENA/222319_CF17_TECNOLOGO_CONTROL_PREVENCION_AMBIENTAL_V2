@@ -17,20 +17,26 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-primario.p-3.mb-5
-          .row.justify-content-around.align-items-center
+          .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/temas/tema4/2.svg")
             .col
               .row.justify-content-between.align-items-center
-                .col-10.mb-3.mb-sm-0
+                .col-12.mb-3.mb-sm-0
                   h4.mb-1.fw-normal Visite los documentos que aquí se le proponen. Mediante su lectura consciente podrá apropiar los elementos de desarrollo de protocolos de mantenimiento preventivo y correctivo.
-                .col.mb-3.mb-sm-0
-                  a.boton.color-acento-botones.mb-4(href="https://www.emdupar.gov.co/index.php/la-entidad/sistema-integrado-de-gestion/Planeacion/Manuales/MA-GM-01%20MANUAL%20DE%20OPERACION%20Y%20MANTENIMIENTO%20PTAR.pdf/download" target="_blank" type="application/pdf")
-                    span Descargar 
-                    i.fas.fa-file
-                  a.boton.color-acento-botones(href="https://www.emdupar.gov.co/index.php/la-entidad/sistema-integrado-de-gestion/Planeacion/Manuales/MA-GM-01%20MANUAL%20DE%20OPERACION%20Y%20MANTENIMIENTO%20PTAR.pdf/download" target="_blank" type="application/pdf")
-                    span Descargar 
-                    i.fas.fa-file
+          a.anexo.mb-4(href="https://www.emdupar.gov.co/index.php/la-entidad/sistema-integrado-de-gestion/Planeacion/Manuales/MA-GM-01%20MANUAL%20DE%20OPERACION%20Y%20MANTENIMIENTO%20PTAR.pdf/download" target="_blank" type="application/pdf")
+            .row.justify-content-around.align-items-center
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto(style="color: #12263F")
+                p #[b Anexo.] Manual de operación y mantenimiento el sistema de tratamiento de aguas residuales.
+          a.anexo.mb-4(href="https://www.emdupar.gov.co/index.php/la-entidad/sistema-integrado-de-gestion/Planeacion/Manuales/MA-GM-01%20MANUAL%20DE%20OPERACION%20Y%20MANTENIMIENTO%20PTAR.pdf/download" target="_blank" type="application/pdf")
+            .row.justify-content-around.align-items-center
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p(style="color: #12263F") #[b Anexo.] Manual de operación, mantenimiento y limpieza PTAR.
+                  
 
 </template>
 

@@ -24,27 +24,27 @@
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/temas/tema6/2.svg', alt='Texto que describa la imagen')
-            .tarjeta.p-3(x="15.8%" y="18.3%" numero="+" style="background-color: #dee9f0 ")
+            .tarjeta.p-3(x="15.8%" y="18.3%" numero="+" style="background-color: white ")
               p Cabeza: El casco desvía y absorbe golpes de la cabeza
-            .tarjeta.p-3(x="15.8%" y="40%" numero="+" style="background-color: #dee9f0 ")
+            .tarjeta.p-3(x="15.8%" y="40%" numero="+" style="background-color: white ")
               p Cara: Las caretas o protectores faciales protegen de salpicaduras de químicos, partículas volantes, de esmerilado, corte y presión de aire.
 
-            .tarjeta.p-3(x="15.8%" y="62%" numero="+" style="background-color: #dee9f0 ")
+            .tarjeta.p-3(x="15.8%" y="62%" numero="+" style="background-color: white ")
               p Manos: Los guantes de cuero son apropiados para el manejo de la mayoría de los materiales abrasivos. Cuando trabajamos con químicos, los guantes deberán ser sellados en la parte alta o tener un doblez para prevenir la entrada de líquidos.
 
-            .tarjeta.p-3(x="15.8%" y="83.6%" numero="+" style="background-color: #dee9f0 ")
+            .tarjeta.p-3(x="15.8%" y="83.6%" numero="+" style="background-color: white ")
               p Vías respiratorias (atmósferas peligrosas): El detector de gases múltiples tiene la capacidad para lectura de gases como: sulfato de hidrógeno (H2S), oxígeno (O2), monóxido de carbono (CO), límite inferior de explosividad (LEL). 
 
-            .tarjeta.p-3(x="84.3%" y="18.3%" numero="+" style="background-color: #dee9f0 ")
+            .tarjeta.p-3(x="84.3%" y="18.3%" numero="+" style="background-color: white ")
               p Oídos: Expuestos a niveles de ruido por encima de 85 decibeles (dBA)
 
-            .tarjeta.p-3(x="84.3%" y="40%" numero="+" style="background-color: #dee9f0 ")
+            .tarjeta.p-3(x="84.3%" y="40%" numero="+" style="background-color: white ")
               p Ojos: Los lentes protegen de salpicaduras de químicos,  como ácidos, caústicos, baterías de celdas húmedas u otros.
 
-            .tarjeta.p-3(x="84.3%" y="62%" numero="+" style="background-color: #dee9f0 ")
+            .tarjeta.p-3(x="84.3%" y="62%" numero="+" style="background-color: white ")
               p Cuerpo: Usar overol y/o camisa y pantalón, 100% algodón retardante al fuego. 
 
-            .tarjeta.p-3(x="84.3%" y="83.6%" numero="+" style="background-color: #dee9f0 ")
+            .tarjeta.p-3(x="84.3%" y="83.6%" numero="+" style="background-color: white ")
               p Los zapatos y botas de seguridad son hechos con casquillos para protección de los pies por perforación o aplastamiento, objetos pesados cayendo, objetos afilados, objetos rodando y suelo resbaladizo.
 
     

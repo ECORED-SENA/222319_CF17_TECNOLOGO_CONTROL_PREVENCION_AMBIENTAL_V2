@@ -23,7 +23,7 @@
         .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
           p.fw-bold.text-center Concentración 
 
-          p • Aire disuelto
+          p.text-start  • Aire disuelto
             br
             |• Flotación
             br
@@ -38,7 +38,7 @@
         .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
           p.fw-bold.text-center Digestión - Estabilización
 
-          p • Proceso Aerobio
+          p.text-start  • Proceso Aerobio
             br
             |• Proceso Anaerobio
             br
@@ -51,7 +51,7 @@
         .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
           p.fw-bold.text-center Acondicionamiento - desinfección
 
-          p • Fijación quimica
+          p.text-start  • Fijación quimica
             br
             |• Elutriación
             br
@@ -66,7 +66,7 @@
         .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
           p.fw-bold.text-center Desecación y secado
 
-          p • Filtro prensa
+          p.text-start  • Filtro prensa
             br
             |• Filtro de vacio
             br
@@ -81,7 +81,7 @@
         .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
           p.fw-bold.text-center Incineración y reducción
 
-          p • Incinerador de horno múltiple
+          p.text-start  • Incinerador de horno múltiple
             br
             |• Incinerador de lecho fluidizado
             br
@@ -92,7 +92,7 @@
         .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
           p.fw-bold.text-center Disposición final
 
-          p • Aplicación en suelo tipo A o B
+          p.text-start • Aplicación en suelo tipo A o B
             br
             |• Relleno Sanitario
             br
@@ -113,7 +113,8 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col-10.mb-3.mb-sm-0
-                    p.text-small Anexo_4_EquiposParaControlDeLodos
+                    h4 Equipos para control de lodos
+                    p.text-small Le invitamos a consultar ampliamente en los aspectos teóricos conceptuales referente a los equipos para control de lodo, que se encuentran en el siguiente documento descargable.
                   .col.mb-3.mb-sm-0
                     a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo4.pdf')" target="_blank" type="application/pdf")
                       span Descargar 

@@ -100,24 +100,24 @@
             p Los términos de referencia establecen también que los protocolos de contingencia que se deben presentar tienen que proveer información específica para la atención de las emergencias derivadas de los escenarios de riesgos identificados e incluyen procedimientos para evaluación de daños y estimación de necesidades. En cuanto a la evaluación de daños y necesidades, esta incluye la identificación y registro de la extensión, gravedad y localización de los efectos y se divide según su alcance en general y específica y según el momento en inicial, intermedia y final. La evaluación de necesidades busca identificar la capacidad para atender la emergencia y las necesidades de ayuda o apoyo externo que se requiere.
           div(titulo="Procesos de respuesta")
             p Los procedimientos deben estar acordes con las diferentes fases de evaluación (inicial, intermedia y final). Las tarjetas de funciones, debe ser una lista de verificación o chequeo de prioridades de actuación para cada uno de los responsables de la respuesta. Deben estar definidos, además, los protocolos de contingencia para casos en los cuales la reparación y reinicio de actividades del sistema de vertimiento requiere de un lapso superior a tres (3) horas diarias. 
-      .col-lg-3: img(src='@/assets/curso/temas/tema5/6.png' alt='AvatarTop')
+      .col-lg-3: img.d-lg-block.d-none(src='@/assets/curso/temas/tema5/6.png' alt='AvatarTop')
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-primario.p-3.mb-5
-          .row.justify-content-around.align-items-center
+          .row.justify-content-around.align-items-center.mb-4
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema2/pdf.svg")
+              img(src="@/assets/curso/temas/tema4/2.svg")
             .col
               .row.justify-content-between.align-items-center
-                .col-10.mb-3.mb-sm-0
-                  h4.mb-1.fw-normal Se recomienda visitar los siguientes documentos, en ellos encontrará los lineamientos para desarrollar un plan de emergencias y contingencias en la gestión del riesgo en el manejo de vertimientos.
-                .col.mb-3.mb-sm-0
-                  a.boton.color-acento-botones.mb-4(href="https://www.cornare.gov.co/Tramites-Ambientales/TR/TR-manejo_vertimientos.pdf" target="_blank" type="application/pdf")
-                    span Descargar 
-                    i.fas.fa-file
-                  a.boton.color-acento-botones(href="https://www.sire.gov.co/documents/82884/85386/ANEXO+3-+GUIA+PLANES+EMERGENCIA+Y+CONTINGENCIAS.pdf/2010161a-6762-4699-82c2-38090fb38f92" target="_blank" type="application/pdf")
-                    span Descargar 
-                    i.fas.fa-file
+                .col-12.mb-3.mb-sm-0
+                  h4.mb-1.fw-normal Visite los documentos que aquí se le proponen. Mediante su lectura consciente podrá apropiar los elementos de desarrollo de protocolos de mantenimiento preventivo y correctivo.
+          a.anexo.mb-4(:href="obtenerLink('downloads/anexo5.pdf')" target="_blank")
+            .row.justify-content-around.align-items-center
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto(style="color: #12263F")
+                p #[b Anexo.] Manual de operación y mantenimiento el sistema de tratamiento de aguas residuales.
+
 
 
 

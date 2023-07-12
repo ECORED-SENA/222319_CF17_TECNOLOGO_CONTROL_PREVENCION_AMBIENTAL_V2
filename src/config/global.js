@@ -177,8 +177,7 @@ export default {
     {
       tema:
         'Sistemas para tratamiento físico, químico y biológico del agua residual',
-      referencia:
-        'TV Agro. (2015). Tratamiento de Aguas Residuales EMPAS [Video]. YouTube. ',
+      referencia: 'TV Agro. (2015). Tratamiento de Aguas Residuales EMPAS  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=LLqFBBHJ6yA ',
     },
@@ -187,7 +186,7 @@ export default {
       tema:
         'Sistemas para tratamiento físico, químico y biológico del agua residual',
       referencia:
-        'Syner Tech S.A.S. (2016). Plantas de Tratamiento de Aguas Residuales [Video]. YouTube. ',
+        'Syner Tech S.A.S. (2016). Plantas de Tratamiento de Aguas Residuales  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=VpY5j-fVw8o&t=100s',
     },
@@ -196,7 +195,7 @@ export default {
       tema:
         'Sistemas para tratamiento físico, químico y biológico del agua residual',
       referencia:
-        'EPM.ESP. (2016). Tratamiento de aguas residuales -- Planta San Fernando [Video]. YouTube. ',
+        'EPM.ESP. (2016). Tratamiento de aguas residuales -- Planta San Fernando  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=3bEhLJLR7UU ',
     },
@@ -205,7 +204,7 @@ export default {
       tema: 'Procesos y protocolos de mantenimiento',
       referencia:
         'EMDUPAR. (2012). Manual de operación y mantenimiento del sistema de tratamiento de aguas residuales. EMDUPAR. ',
-      tipo: 'Video',
+      tipo: 'Manual',
       link:
         'https://www.emdupar.gov.co/index.php/la-entidad/sistema-integrado-de-gestion/Planeacion/Manuales/MA-GM-01%20MANUAL%20DE%20OPERACION%20Y%20MANTENIMIENTO%20PTAR.pdf/download ',
     },
@@ -222,19 +221,9 @@ export default {
     {
       tema: 'Emergencias y contingencias en el tratamiento de vertimientos',
       referencia:
-        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial (2011). Plan de gestión del riesgo para el manejo de vertimientos. ',
-      tipo: 'Plan',
-      link:
-        'https://www.cornare.gov.co/Tramites-Ambientales/TR/TR-manejo_vertimientos.pdf ',
-    },
-
-    {
-      tema: 'Emergencias y contingencias en el tratamiento de vertimientos',
-      referencia:
         'FOPAE (2013). Guía para elaborar planes de emergencia y contingencias.  ',
       tipo: 'Guía',
-      link:
-        'https://www.sire.gov.co/documents/82884/85386/ANEXO+3-+GUIA+PLANES+EMERGENCIA+Y+CONTINGENCIAS.pdf/2010161a-6762-4699-82c2-38090fb38f92 ',
+      descarga: 'downloads/anexo5.pdf',
     },
 
     {
@@ -242,8 +231,7 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje SENA. (2018). Práctica de laboratorio de extracción y caracterización de lodos. ',
       tipo: 'Guía',
-      link:
-        'https://drive.google.com/file/d/1KrXT1Cyrd5txhc5-Ejv07cnNUywxccMS/view?usp=sharing ',
+      descarga: 'downloads/anexo6.pdf',
     },
   ],
   glosario: [
@@ -290,12 +278,12 @@ export default {
       link:
         'http://aguasindustriales.es/ventajas-y-desventajas-de-los-reactores-biologicos-secuenciales-sbr/',
     },
-    {
-      referencia:
-        'Aguas Sigma. (2016). Sistema de flotación por aire disuelto. AGUASIGMA',
-      link:
-        'http://aguasigma.com/es/equipos-tratamiento-aguas/sistema-daf.html',
-    },
+    // {
+    //   referencia:
+    //     'Aguas Sigma. (2016). Sistema de flotación por aire disuelto. AGUASIGMA',
+    //   link:
+    //     'http://aguasigma.com/es/equipos-tratamiento-aguas/sistema-daf.html',
+    // },
     {
       referencia:
         'Decreto 3100 de 2003. [Ministerio de Ambiente, Vivienda y Desarrollo Territorial]. por medio del cual se reglamentan las tasas retributivas por la utilización directa del agua como receptor de los vertimientos puntuales y se toman otras determinaciones. Octubre 30 de 2003.',
@@ -342,12 +330,12 @@ export default {
       referencia: 'Maldonado, V. (s.f.). Sedimentación.',
       link: 'http://www.ingenieroambiental.com/4014/siete.pdf',
     },
-    {
-      referencia:
-        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial (2011). Plan de gestión del riesgo para el manejo de vertimientos.',
-      link:
-        'https://www.cornare.gov.co/Tramites-Ambientales/TR/TR-manejo_vertimientos.pdf',
-    },
+    // {
+    //   referencia:
+    //     'Ministerio de Ambiente, Vivienda y Desarrollo Territorial (2011). Plan de gestión del riesgo para el manejo de vertimientos.',
+    //   link:
+    //     'https://www.cornare.gov.co/Tramites-Ambientales/TR/TR-manejo_vertimientos.pdf',
+    // },
     {
       referencia:
         'Pedraza, S. (2018). Unidad de tratamiento por biodiscos - feria FIMA.',
@@ -364,11 +352,11 @@ export default {
       link:
         'https://www.tratamientodelagua.com.mx/lagunas-de-oxidacion-que-son/',
     },
-    {
-      referencia: 'Universidad Veracruzana. (s.f.). Bioingeniería',
-      link:
-        'https://sites.google.com/site/bioingenieriauv15/unidad-1-sistemas-de-depuracion-de-agua/1-3-filtros-verdes',
-    },
+    // {
+    //   referencia: 'Universidad Veracruzana. (s.f.). Bioingeniería',
+    //   link:
+    //     'https://sites.google.com/site/bioingenieriauv15/unidad-1-sistemas-de-depuracion-de-agua/1-3-filtros-verdes',
+    // },
   ],
   creditos: [
     {
@@ -380,9 +368,10 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Rafael Neftalí Lizcano Reyes ',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
         },
       ],
     },
@@ -390,9 +379,34 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Diana Carolina Triana Guarnizo',
+          cargo: 'Instructora Experta temática',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Juan Carlos Cárdenas Sánchez',
+          cargo: 'Instructor Experto temático',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Gloria Esperanza Ortiz Russi',
+          cargo: 'Evaluadora y diseñadora instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Fabián Leonardo Correa Díaz',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro Agropecuario La Granja - Regional Tolima',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor metodológico y pedagógico',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Correctora de Estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
     },
@@ -406,15 +420,34 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
         },
         {
-          nombre: 'Camilo Andres Bolaño Rey',
+          nombre: 'Camilo Andrés Bolaño Rey',
           cargo: 'Desarrollador Fullstack',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Zuleidy María Ruíz Torres ',
+          cargo: 'Validación audiovisual ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey ',
+          cargo: 'Locución ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres ',
+          cargo: 'Ilustración ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada ',
+          cargo: 'Producción audiovisual ',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -422,12 +455,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Validación contenido',
           centro: 'Nombre centro formación',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Daniel Mutis',
           cargo: 'Validación de contenidos accesibles',
           centro: 'Nombre centro formación',
         },

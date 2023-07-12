@@ -23,8 +23,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col-10.mb-3.mb-sm-0
-                  h4.mb-1.fw-normal Profundice ampliamente en los aspectos teóricos conceptuales referente al "Tratamiento de lodos", visitando el Anexo_3_TratamientoDeLodos. Luego de estudiar el documento, realice una síntesis y regístrela en su libreta de apuntes personal.
-                  p.text-small Anexo_3_TatamientoDeLodos
+                  h4.mb-1.fw-normal Tratamiento de lodos
+                  p.text-small Le invitamos a consultar ampliamente en los aspectos teóricos conceptuales referente al "Tratamiento de lodos", que se encuentran en el siguiente documento descargable.
                 .col.mb-3.mb-sm-0
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo3.pdf')" target="_blank" type="application/pdf")
                     span Descargar 
