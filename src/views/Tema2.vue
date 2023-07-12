@@ -20,7 +20,7 @@
       p.mb-5(data-aos='fade-right') En la siguiente tabla se muestra la clasificación de algunos de los tratamientos más usuales de agua residual, de acuerdo con su tipo. Haga un estudio juicioso de esta tabla y tome nota atenta de los aspectos más importantes en este punto “Tipos de tratamiento”: 
       .row.justify-content-center.mb-5
         .col-lg-10
-          .tabla-e.text-center
+          .tabla-a.text-start
             table
               thead
                 tr
@@ -249,22 +249,22 @@
     .row.justify-content-center.mb-5
       .col-lg-4(data-aos="fade-right")
         p Son aquellos que eliminan los sólidos en suspensión presentes en el agua. Los principales procesos fisicoquímicos que pueden ser incluidos en el tratamiento primario son: 
-      .col-lg-2
+      .col-lg-2.mb-lg-0.mb-3.col-8
         .tarjeta-avatar.pt-4
           img(src='@/assets/curso/temas/tema2/10.svg' alt='AvatarTop' style="width: 52px")
           .tarjeta.w-100.rounded-0(style="background-color: #e2eacb")
-            h5.text-center.mb-0 Sedimentación
-      .col-lg-2
+            h5.text-center.mb-4 Sedimentación
+      .col-lg-2.mb-lg-0.mb-3.col-8
         .tarjeta-avatar.pt-4
           img(src='@/assets/curso/temas/tema2/11.svg' alt='AvatarTop' style="width: 52px")
           .tarjeta.w-100.rounded-0(style="background-color: #e2eacb")
-            h5.text-center.mb-0 Flotación
-      .col-lg-2
+            h5.text-center.mb-4 Flotación
+      .col-lg-2.mb-lg-0.mb-3.col-8
         .tarjeta-avatar.pt-4
           img(src='@/assets/curso/temas/tema2/12.svg' alt='AvatarTop' style="width: 52px")
           .tarjeta.w-100.rounded-0(style="background-color: #e2eacb")
-            h5.text-center.mb-0 Coagulación – floculación
-      .col-lg-2
+            h5.text-center.mb-4 Coagulación – floculación
+      .col-lg-2.mb-lg-0.mb-3.col-8
         .tarjeta-avatar.pt-4
           img(src='@/assets/curso/temas/tema2/13.svg' alt='AvatarTop' style="width: 52px")
           .tarjeta.w-100.rounded-0(style="background-color: #e2eacb")
@@ -277,7 +277,7 @@
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 10 
           br
-          span.fst-italic Decantación primaria
+          span.fst-italic Sedimentador circular
         img(src='@/assets/curso/temas/tema2/14.jpg', alt='')
         figcaption Nota. Tomado de Educarex (2007).  http://contenidos.educarex.es/mci/2007/11/activid/edar/edar.html 
       .col-lg-4(data-aos="fade-left")
@@ -285,7 +285,7 @@
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 11
             br
-            span.fst-italic  Sedimentador circular
+            span.fst-italic  Decantación primaria
           img(src='@/assets/curso/temas/tema2/15.png', alt='')
           figcaption Nota. Tomado de Tratamiento del agua (s.f.). http://www.tratamientodelagua.com.mx/wp-content/uploads/Sedimentador-circular.png  
     p.mb-5(data-aos='fade-right') De acuerdo con Maldonado (s.f.), los tipos de sedimentación se pueden clasificar como:
@@ -312,7 +312,7 @@
               img(src='@/assets/curso/temas/tema2/17.jpg', alt='')
               figcaption Nota. Tomado de El agua potable (s.f.). http://www.elaguapotable.com/decantacion.htm 
     p.mb-5(data-aos='fade-right') #[b • Los tipos de sedimentadores se clasifican por:]  Ver figura 13
-    .bg-1.py-4.px-5
+    .bg-1.py-4.px-5.mb-5
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
         h5 Figura 13 
         br
@@ -325,14 +325,13 @@
       br
       |El siguiente esquema ilustra las diferencias entre ambos sedimentadores:
     .row.justify-content-center.mb-5
-      .col-lg-7.mb-lg-0.mb-3(data-aos="fade-right") 
+      .col-lg-10.mb-lg-0.mb-3(data-aos="fade-right") 
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 14
           br
           span Sedimentadores
         img(src='@/assets/curso/temas/tema2/19.svg', alt='')
         figcaption Nota. Tomado de Pedraza (2020).
-      .col-lg-5.col-8: img(src='@/assets/curso/temas/tema2/20.png', alt='')
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Flotación
     .row.justify-content-center.mb-5
