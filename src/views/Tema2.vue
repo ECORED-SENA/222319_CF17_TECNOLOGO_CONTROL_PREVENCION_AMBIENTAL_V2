@@ -169,7 +169,7 @@
               br
               span.fst-italic Desbastes 
             figure
-              img(src='@/assets/curso/temas/tema2/6.jpg', alt='')
+              img(src='@/assets/curso/temas/tema2/6.jpg', alt='Texto alternativo descriptivo: Gráfica que muestra una acción de desbaste mediante el uso de rejas de gruesos, rejas de finos, contenedores y cintas transportadoras.')
               figcaption Nota. Tomado de Deagua (2020). http://blogdeagua.es/reja-de-desbaste/
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Desarenado 
@@ -195,7 +195,7 @@
           h5 Figura 7
           br
           span.fst-italic Desarenadores 
-        img(src='@/assets/curso/temas/tema2/8.jpg', alt='')
+        img(src='@/assets/curso/temas/tema2/8.jpg', alt='Ilustración que muestra un desarenador y sus partes: canal de llegada, compuerta de admisión, cámara de sedimentación, canal directo, compuerta de lavado, vertedero, canal de lavado, canal de salida.')
         figcaption Nota. Tomado de Universidad de Loja (2015).  https://vdocuments.mx/calculo-del-desarenador.html  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Desengrasado
@@ -206,7 +206,7 @@
           h5 Figura 8
           br
           span.fst-italic Desarenado, desengrasado y elevación 
-        img(src='@/assets/curso/temas/tema2/9.jpg', alt='')
+        img(src='@/assets/curso/temas/tema2/9.jpg', alt='Ilustración que muestra el proceso de desarenado, desengrasado y elevación desde el canal de recogida de arenas hasta el canal de recogida de grasas.')
         figcaption Nota. Tomado de Educarex (2007). 
       .col-lg-6(data-aos="fade-right").mb-lg-0.mb-3
         p De acuerdo con la empresa Cyclusid el desengrasado consiste en la separación de las grasas y aceites arrastrados por el agua residual. Las grasas en las aguas residuales crean numerosos problemas en el proceso de depuración, entre los que se destacan:
@@ -316,7 +316,7 @@
         h5 Figura 13 
         br
         span.fst-italic Tipos de sedimentadores 
-      img(src='@/assets/curso/temas/tema2/18.svg', alt='')
+      img(src='@/assets/curso/temas/tema2/18.svg', alt='Diagrama que enuncia los tipos de sedimentadores: Estáticos, que son de flujo vertical y horizontal, los dinámicos, que son de manto de lodos y los luminares, que pueden ser de láminas horizontales o inclinadas.')
       figcaption Nota. Tomado de Pedraza (2020).
     p.mb-5(data-aos='fade-right') #[b • Los sedimentadores y su clasificación: ]
     p.mb-5(data-aos='fade-right') Los sedimentadores pueden ser tratamientos primarios o secundarios dependiendo de su ubicación dentro del tren de tratamiento, esto depende de las necesidades de tratamiento de acuerdo con las características del agua residual inicial.
