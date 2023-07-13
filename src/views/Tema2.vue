@@ -173,25 +173,22 @@
               figcaption Nota. Tomado de Deagua (2020). http://blogdeagua.es/reja-de-desbaste/
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Desarenado 
+    p.mb-5(data-aos='fade-right') El proceso de desarenado se utiliza para separar la arena, la grava, etc., arrastrada en suspensión por el efluente. Esta arena origina depósitos en canales y tuberías, abrasión y desgaste sobre los elementos mecánicos en movimiento y dificulta la eliminación y digestión de los lodos separados en los tanques de sedimentación, al aumentar su densidad (Cyclusid depuración industrial, s.f.), ver figura 6.
     .row.justify-content-center.mb-5
-      .col-lg-7.mb-lg-0.mb-3(data-aos="fade-right")
-        p El proceso de desarenado se utiliza para separar la arena, la grava, etc., arrastrada en suspensión por el efluente. Esta arena origina depósitos en canales y tuberías, abrasión y desgaste sobre los elementos mecánicos en movimiento y dificulta la eliminación y digestión de los lodos separados en los tanques de sedimentación, al aumentar su densidad (Cyclusid depuración industrial, s.f.), ver figura 6.
-          br
-          br
-          |De acuerdo con la empresa mexicana Domos agua (2018), los tipos de desarenadores se dividen en:
+      .col-lg-5.col-8.mb-lg-0.mb-3
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 6
+          span Desarenador
+        img(src='@/assets/curso/temas/tema2/7.jpg', alt='')
+        figcaption #[b Nota.] Desarenador Santa Fe de la Laguna, Quiroga Michoacán. Tomado de Rivas (s.f.). https://sswm.info/es/gass-perspective-es/tecnologias-de/tecnologias-de-saneamiento-del-sistema/tratamiento-semi/tecnolog%C3%ADas-de-pretratamiento  
+      .col-lg-7
+        p De acuerdo con la empresa mexicana Domos agua (2018), los tipos de desarenadores se dividen en:
         .tarjeta.p-4(style="background-color: #eaf8f2").mb-4
           p.mb-0 #[b • Desarenadores de flujo horizontal:] consiste en reducir la velocidad de flujo del agua, con el fin de que las partículas sólidas que se encuentran suspendidas se decanten y se depositen en el fondo. Esto se logra ensanchando el canal en un tramo, en donde existirán canales paralelos que ayuden en la limpieza de las partículas depositadas. Se debe medir el caudal y la velocidad mediante un canal parshall para mantener controlado el flujo de agua.
         .tarjeta.p-4(style="background-color: #eaf8f2").mb-4
           p.mb-0 #[b • Desarenadores de flujo vertical:] están compuestos por varios compartimentos, de tal manera que dé inicio a fin y, la velocidad sea decreciente, a través de estos compartimentos el agua fluye de forma vertical. En estos desarenadores se lleva a cabo la floculación (proceso químico en el que se añaden sustancias denominadas floculantes para hacer más eficiente la decantación de las partículas suspendidas). Los materiales con los que se construyen las paredes de los compartimentos son concreto, asbesto o madera y la profundidad de estos es de tres a cuatro metros. 
         .tarjeta.p-4(style="background-color: #eaf8f2").mb-4
           p.mb-0 #[b • Desarenadores de flujo inducido:] estos desarenadores tienen forma rectangular y en ellos se inyecta aire mediante aireadores tipo turbina para producir el movimiento del agua en forma de espiral, lo cual produce la decantación de los sólidos suspendidos. Este proceso también favorece la deposición de la materia orgánica. Posteriormente, se lleva a cabo la separación de las arenas de forma manual o mecanizada, de acuerdo con el tamaño de la planta, ver figura 7. 
-      .col-lg-5.col-8(data-aos="fade-left") 
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 6
-          br
-          span.fst-italic Desarenador
-        img(src='@/assets/curso/temas/tema2/7.jpg', alt='')
-        figcaption Nota. Desarenador Santa Fe de la Laguna, Quiroga Michoacán. Tomado de Rivas (s.f.). https://sswm.info/es/gass-perspective-es/tecnologias-de/tecnologias-de-saneamiento-del-sistema/tratamiento-semi/tecnolog%C3%ADas-de-pretratamiento  
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -202,12 +199,17 @@
         figcaption Nota. Tomado de Universidad de Loja (2015).  https://vdocuments.mx/calculo-del-desarenador.html  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Desengrasado
+    p.mb-5(data-aos='fade-right') Después de cualquiera de los tres procesos de desarenado se tiene que efectuar un desengrasado para separar las grasas y aceites de los canales, previniendo que los siguientes procesos se vean afectados. Aunque existen desarenadores que llevan el proceso de desengrasado de manera conjunta con el desarenado mediante aire comprimido (Domos agua, 2018), ver figura 8.
     .row.justify-content-center.mb-5
+      .col-lg-6.col-8(data-aos="fade-left")
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 8
+          br
+          span.fst-italic Desarenado, desengrasado y elevación 
+        img(src='@/assets/curso/temas/tema2/9.jpg', alt='')
+        figcaption Nota. Tomado de Educarex (2007). 
       .col-lg-6(data-aos="fade-right").mb-lg-0.mb-3
-        p Después de cualquiera de los tres procesos de desarenado se tiene que efectuar un desengrasado para separar las grasas y aceites de los canales, previniendo que los siguientes procesos se vean afectados. Aunque existen desarenadores que llevan el proceso de desengrasado de manera conjunta con el desarenado mediante aire comprimido (Domos agua, 2018), ver figura 8.
-          br
-          br
-          |De acuerdo con la empresa Cyclusid el desengrasado consiste en la separación de las grasas y aceites arrastrados por el agua residual. Las grasas en las aguas residuales crean numerosos problemas en el proceso de depuración, entre los que se destacan:
+        p De acuerdo con la empresa Cyclusid el desengrasado consiste en la separación de las grasas y aceites arrastrados por el agua residual. Las grasas en las aguas residuales crean numerosos problemas en el proceso de depuración, entre los que se destacan:
         div(style="background-color: #fdf8e4 ").p-4
           ul.lista-ul--color.fw-bold
             li
@@ -224,13 +226,6 @@
             li
               i.fas.fa-check
               | Dificulta la correcta aireación en la depuración de fangos activos.
-      .col-lg-6.col-8(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 8
-          br
-          span.fst-italic Desarenado, desengrasado y elevación 
-        img(src='@/assets/curso/temas/tema2/9.jpg', alt='')
-        figcaption Nota. Tomado de Educarex (2007). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Homogenización
     .row.justify-content-center.mb-5
@@ -300,9 +295,12 @@
         .tarjeta.w-100(style="background-color: #e2eacb").p-4.mb-3
           p.mb-0 #[b • Sedimentación por caída libre e interferida:] cuando existe una baja concentración de partículas en el agua, estas se depositan sin interferir y se denomina a este fenómeno caída libre. En cambio, cuando hay altas concentraciones de partículas se producen colisiones que las mantienen en una posición fija y ocurre un depósito masivo en lugar de individual. A este proceso de sedimentación se le denomina depósito o caída interferida o sedimentación zonal. Cuando las partículas ya en contacto forman una masa compacta que inhibe una mayor consolidación se produce una compresión o zona de compresión. Este tipo de sedimentación se presenta en los concentradores de lodos de las unidades de decantación con manto de lodos. 
     .row.justify-content-center.mb-5
-      .col-lg-8
-        .tarjeta.w-100(style="background-color: #e2eacb").p-4.mb-3
-          p #[b • Decantación:] Ver figura 12
+      .col-lg-10
+        .tarjeta.w-100(style="background-color: #EAF8F2").p-4.mb-3
+          p #[b • Decantación:] es un método físico para separar componentes de distinta densidad, de modo que el más denso se ubica en el fondo del decantador, en virtud de la fuerza de gravedad. De este modo, el agua clara o clarificada se ubicará en la superficie.
+            br
+            br
+            |Ver figura 12.
           .row.justify-content-center.mb-5
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -311,7 +309,8 @@
                 span.fst-italic Decantación
               img(src='@/assets/curso/temas/tema2/17.jpg', alt='')
               figcaption Nota. Tomado de El agua potable (s.f.). http://www.elaguapotable.com/decantacion.htm 
-    p.mb-5(data-aos='fade-right') #[b • Los tipos de sedimentadores se clasifican por:]  Ver figura 13
+    p.mb-5(data-aos='fade-right') #[b • Los tipos de sedimentadores se clasifican por:]  su forma, la cual puede ser cuadrada, rectangular o redonda. En virtud del escurrimiento que proporcionan también pueden tipificarse como sedimentadores de escurrimiento vertical o de escurrimiento radial. En general, los tipos de sedimentadores son los que presenta la siguiente figura:
+
     .bg-1.py-4.px-5.mb-5
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
         h5 Figura 13 

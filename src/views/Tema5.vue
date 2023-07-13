@@ -45,7 +45,7 @@
       div(titulo="Calificación del impacto de cada riesgo")
         p Calificación del impacto de cada riesgo del proceso. Se debe realizar una calificación del riesgo en función de la intensidad y/o magnitud de los daños esperados y de los impactos en el logro de los objetivos del tratamiento. Esta calificación se debe presentar en forma comparativa, de manera que permita priorizar y tomar decisiones para la reducción del riesgo. Igualmente, se debe analizar la combinación de las consecuencias con la probabilidad de ocurrencia. La calificación del riesgo se debe presentar para dos momentos, sin tener en cuenta los controles y la ejecución de los controles. Aunque en muchos casos este análisis de riesgos está integrado al sistema de calidad o de seguridad industrial del generador, se debe ampliar el alcance del análisis para las fases de mantenimiento y situaciones que limiten o impidan el tratamiento del vertimiento (Ministerio de Ambiente, Vivienda y Desarrollo Territorial, 2011, p. 9). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
-      h4.mb-0 Riesgos internos (tecnológicos)
+      h4.mb-0 Riesgos externos (socio-naturales)
     p.mb-5(data-aos='fade-right') Se debe incluir el análisis de riesgos al sistema de vertimientos por los fenómenos socio-naturales identificados en el área de influencia del proyecto: 
     .row.justify-content-center.mb-5
       .col-lg-4.mb-lg-0.mb-3
