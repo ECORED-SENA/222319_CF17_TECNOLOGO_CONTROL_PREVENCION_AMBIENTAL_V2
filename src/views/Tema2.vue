@@ -845,7 +845,7 @@
         p #[b (Reactor biológico + ultrafiltración)] se incluyen en las denominadas tecnologías de membrana, las cuales han experimentado un gran desarrollo en la última década. La aplicación de estas tecnologías a los MBR permite la separación del fango y el líquido mediante membranas, obteniendo ventajas importantes frente a la separación en los tradicionales decantadores secundarios. El aumento de la demanda de agua ha impulsado la implantación de estos sistemas a escala real, especialmente en aquellos casos en que se plantea la posibilidad de reutilización de agua (Universidad de Alcalá, 2007), ver figura 36. 
       .col-lg-7.col-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 35 
+          h5 Figura 36
           br
           span.fst-italic  Biorreactor de membrana
         img(src='@/assets/curso/temas/tema2/61.png', alt='')
@@ -939,8 +939,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col-10.mb-3.mb-sm-0
-                  h4.mb-1.fw-normal Para realizar un estudio profundo y pertinente sobre los tratamientos terciarios del agua residual, diríjase al Anexo_1_TratamientosTerciariosAguaResigual y analice cabalmente el documento. Recuerde llevar registro de los aspectos más relevantes.
-                  p.text-small Anexo1 _Anexo_1_TratamientosTerciariosAguaResigual
+                  h4.mb-1.fw-normal Tratamientos terciarios del agua residual
+                  p.text-small Para realizar un estudio profundo y pertinente sobre los tratamientos terciarios del agua residual, le invitamos a consultar el siguiente recurso descargable.
                 .col.mb-3.mb-sm-0
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo1.pdf')" target="_blank" type="application/pdf")
                     span Descargar 
