@@ -562,11 +562,11 @@
             .tabla-e.text-center.mb-5
               table
                 thead
-                  tr
-                    th
-                    th 
-                    th 
-                tbody
+                  tr(style="background-color: #badc61 ")
+                    th Velocidad de filtración
+                    th Medio filtrante usado
+                    th Carga sobre el lecho
+                tbody.bg-white
                   tr
                     td(rowspan="4") Rápidos: 
                       br

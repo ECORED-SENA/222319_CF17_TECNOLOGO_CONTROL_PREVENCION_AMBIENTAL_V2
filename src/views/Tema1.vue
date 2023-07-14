@@ -13,19 +13,15 @@
           p.mb-0 Este recurso es necesario para las actividades del diario vivir del ser humano, pues no solo se usa para satisfacer la sed, sino también en la agricultura, las fábricas y por supuesto en las viviendas. Con el paso de los siglos, los seres humanos se han dado cuenta de la importancia del agua y han diseñado estructuras para su aprovechamiento como canales, sistemas de riego, acueductos, represas y embalses, todo esto con el fin de generar el desarrollo en las industrias y la calidad de vida en los hogares. El verdadero problema radica en el mal uso del recurso, como la sobreexplotación, el desperdicio y la contaminación de esta en cualquier tipo de cuerpo de agua. Como se sabe, el agua cuenta con un ciclo natural y esto provoca efectos irreparables en los ecosistemas y en cada ser vivo que habita el planeta.
       .col-lg-5.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/1.png', alt='')
     p.mb-5(data-aos='fade-right') A continuación, se presenta algunos términos y conceptos importantes, los cuales vale tener presentes y comprendidos durante el estudio de este componente formativo, para una mejor asimilación de los temas y contenidos: 
-    .tarjeta.bg-slyde.p-4.mb-5
+    .tarjeta.bg-slyde.p-5.mb-5
       SlyderA(tipo='b')
         .row
           .col-md-8.mb-4.mb-md-0
             h4 1. Aguas residuales o vertimientos
             p Residuos líquidos descargados por viviendas, instituciones, fábricas y fincas. Se clasifican generalmente en aguas residuales domésticas e industriales. La primera se caracteriza por ser un vertimiento proveniente de actividades residenciales o institucionales. Por otro lado, el vertimiento industrial es la descarga que se realiza de un proceso productivo. ya sea en la elaboración de un producto o la prestación de un servicio.
           .col-md-4
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 2
-              span.fst-italic Caja de inspección de aguas residuales
             figure
               img(src='@/assets/curso/temas/tema1/2.jpg', alt='Texto que describa la imagen')
-              figcaption Nota. Pedraza, S. (2017). Caja de inspección de aguas residuales.
         .row
           .col-md-8.mb-4.mb-md-0
             h4 2. Contaminación del agua
@@ -46,12 +42,8 @@
             h4 4. Contaminantes líquidos del agua
             p Los contaminantes en forma líquida provienen de las descargas de desechos domésticos, agrícolas e industriales en las vías acuáticas, de terrenos de alimentación de animales, de terrenos de relleno sanitario, de drenajes de minas y de fugas de fosas sépticas, entre otros. Estos líquidos contienen minerales disueltos, desechos humanos y de animales, compuestos químicos sintéticos, y materia coloidal y en suspensión. 
           .col-md-4
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 4
-              span.fst-italic Evacuación de aguas residuales
             figure
               img(src='@/assets/curso/temas/tema1/5.jpg', alt='Texto que describa la imagen')
-              figcaption Nota. Pedraza, S. (2017). Evacuación de aguas residuales
         .row
           .col-md-8.mb-4.mb-md-0
             h4 5. Contaminantes sólidos del agua
@@ -82,37 +74,31 @@
             figure
               img(src='@/assets/curso/temas/tema1/9.jpg', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0
             h4 9. Contaminantes biológicos del agua
             p Incluyen hongos, bacterias y virus que provocan enfermedades; algas y otras plantas acuáticas. Algunas bacterias son inofensivas y otras participan en la degradación de la materia orgánica contenida en el agua.
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema1/10.jpg', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0
             h4 10. Alcantarillado
             p Conjunto de estructuras para la evacuación de las aguas residuales bien sean industriales, domésticas o de aguas lluvias. También existe el alcantarillado de aguas combinadas que se encarga del transporte de todo tipo de agua sin importar su proveniencia. El sistema más adecuado para el transporte de agua a nivel municipal es el alcantarillado separado, pues divide las aguas residuales y las aguas lluvias de manera independiente lo que evita aumentar caudales de aguas contaminadas.
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema1/11.jpg', alt='Texto que describa la imagen')
-         
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0
             h4 11. Caja de inspección
             p Cámara ubicada en sitios estratégicos de la red de alcantarillado, en puntos de evacuación de agua residual o lluvia de empresas, fincas o algunas viviendas.
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 5
-              span.fst-italic Cajas de inspección de agua residual
+          .col-md-4
             img(src='@/assets/curso/temas/tema1/12.jpg', alt='')
-            figcaption Nota. Pedraza, S. (2016). Cajas de inspección de agua residual
-          .col-md-6.mb-4.mb-md-0
+        .row
+          .col-md-8.mb-4.mb-md-0
             h4 12. Caracterización de aguas residuales
             p Análisis de la cantidad de agua o caudal que se vierte en uno o más puntos en donde se establecen las características físicas, químicas y biológicas de las aguas residuales, tal y como lo establecen los lineamientos técnico-legales en el país.
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 6
-              span.fst-italic Caracterización de las aguas
+          .col-md-4
             img(src='@/assets/curso/temas/tema1/13.jpg', alt='')
-            figcaption Nota. Pedraza, S. (2016). Cajas de inspección de agua residual
           
 </template>
 
