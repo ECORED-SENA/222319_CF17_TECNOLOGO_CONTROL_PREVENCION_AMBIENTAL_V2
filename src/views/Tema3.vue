@@ -35,7 +35,8 @@
           div(style="background-color: #a7bce6").p-4.mb-1
             h3.text-center.mb-0 Cc = Q X 0.0864 X (t/24)
           .p-4
-            p donde
+            p Donde:
+              br
               br
               |#[b Cc=] Carga Contaminante, en kilogramos por día (Kg/dia)
               br
@@ -63,8 +64,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col-10.mb-3.mb-sm-0
-                  h4.mb-1.fw-normal Visite el Anexo_2_EficienciaDelPTAR para que profundice en el diseño del mismo. Tenga presente que ha de analizar cuidadosamente toda la información que allí se presenta y llevar el registro de los aspectos más importantes, en su libreta personal de apuntes.
-                  p.text-small Anexo_2_EficienciaDelPTAR
+                  h4.mb-1.fw-normal Eficiencia del plan de tratamiento de agua residual - PTAR
+                  p.text-small Para profundizar en el diseño del plan de tratamiento del aguar residual, le invitamos a consultar el siguiente recurso descargable.
                 .col.mb-3.mb-sm-0
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/anexo2.pdf')" target="_blank" type="application/pdf")
                     span Descargar 

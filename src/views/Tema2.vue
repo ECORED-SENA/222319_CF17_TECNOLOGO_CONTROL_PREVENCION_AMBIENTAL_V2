@@ -31,81 +31,138 @@
               tbody.fw-bold
                 tr
                   td Pretratamientos y tratamientos primarios 
-                  td -Desbaste: 
-                    br
-                    | #[span.fw-normal Tamizado]
-                    br
-                    | #[span.fw-normal Cribado] 
-                    br
-                    |-Desarenadores 
-                    br
-                    |- Sedimentador 
-                    br
-                    |-Flotación 
-                    br
-                    |-Homogenización 
-                    br
-                    |-Torres y bandejas de enfriamiento o aireación 
-                    br
-                    |-Filtración 
-                  td -Neutralización 
-                    br
-                    |- Coagulación 
-                    br
-                    |-Floculación horizontal y vertical 
+                  td
+                    ol.lista-ol
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Desbaste
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0  Tamizado
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0  Cribado
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Desarenadores
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Sedimentador 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Flotación
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Homogenización
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Torres y bandejas de enfriamiento o aireación 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Filtración 
+                
+                  td 
+                    ol.lista-ol
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Neutralización 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Coagulación
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Floculación horizontal y vertical
                   td 
                 tr
                   td Tratamientos secundarios 
                   td 
                   td 
-                  td -Aireación extendida 
-                    br
-                    |-Lagunas de oxidación 
-                    br
-                    |- Digestores: 
-                    br
-                    | #[span.fw-normal Aerobios] 
-                    br
-                    | #[span.fw-normal Anaerobios] 
-                    br
-                    |-Biodiscos 
-                    br
-                    |-Filtro percolador 
-                    br
-                    |-Reactor UASB y RAP 
-                    br
-                    |-Fitorremediación 
-                    br
-                    |-Humedales artificiales 
-                    br
-                    |-Filtro FAFA 
-                    br
-                    |-Trampa de grasas 
-                    br
-                    |-Tanque séptico 
+                  td
+                    ol.lista-ol
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Aireación extendida 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Lagunas de oxidación
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Digestores
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold #[span.fw-normal Aerobios]
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold #[span.fw-normal Anaerobios] 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Biodiscos 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Filtro percolador 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Reactor UASB y RAP 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Fitorremediación 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Humedales artificiales 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Filtro FAFA 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Trampa de grasas 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Tanque séptico
+                  
+                  
                 tr
                   td Tratamientos terciarios
-                  td -Micro filtración 
-                    br
-                    |-Ultrafiltración 
-                    br
-                    |-Osmosis inversa 
-                    br
-                    |-Electrodiálisis 
-                    br
-                    |-Eliminación de nutrientes 
-                  td -Cloración 
-                    br
-                    |-Cerámico 
-                    br
-                    |-Ozono 
-                    br
-                    |-Procesos avanzados de oxidación 
-                    br
-                    |-Desinfección UV 
-                    br
-                    |-Resinas de intercambio iónico
                   td 
+                    ol.lista-ol
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Micro filtración 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Ultrafiltración 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Osmosis inversa
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Electrodiálisis 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Eliminación de nutrientes 
+                  
+                  
+                  
+                  td
+                    ol.lista-ol
+                      li.d-flex.mb-1 
+                        span.text-bold - 
+                        p.mb-0.fw-bold Cloración 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Cerámico
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Ozono 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Procesos avanzados de oxidación 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Desinfección UV 
+                      li.d-flex.mb-1
+                        span.text-bold - 
+                        p.mb-0.fw-bold Resinas de intercambio iónico
+                  td
     
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Pretratamientos
@@ -298,9 +355,6 @@
       .col-lg-10
         .tarjeta.w-100(style="background-color: #EAF8F2").p-4.mb-3
           p #[b • Decantación:] es un método físico para separar componentes de distinta densidad, de modo que el más denso se ubica en el fondo del decantador, en virtud de la fuerza de gravedad. De este modo, el agua clara o clarificada se ubicará en la superficie.
-            br
-            br
-            |Ver figura 12.
           .row.justify-content-center.mb-5
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -346,21 +400,21 @@
     .tarjeta.bg-slyde.p-5.mb-5
       SlyderA(tipo='b')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h4 ¿En qué consiste la flotación?
             p En unir las burbujas de aire al material suspendido, causando una reducción neta del peso específico. Las burbujas de tamaño micrométrico se producen por disolución del aire en el agua residual a presiones elevadas, seguida por su posterior liberación a la presión atmosférica. Cuando la presión se reduce a las condiciones atmosféricas el aire disuelto presente en exceso hasta la saturación es liberado en forma de burbujas extremadamente finas que se adhieren a las materias en suspensión.
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/22.png', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h4 ¿Qué sistema se usa para la flotación? 
             p Los sólidos, grasas y flóculos flotan hacia la parte superior de la celda de flotación por aire disuelto y se eliminan mediante un dispositivo de barrido. Para el efecto de flotación se utiliza un sistema de presurización de agua recirculada. Dentro de ellos podemos encontrar el sistema de flotación por aire disuelto que se ha convertido en el sistema de clarificación de aguas más versátil (Aguas Sigma, 2016). 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/23.png', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h4  ¿Qué permiten solucionar los sistemas de flotación? 
             p Permiten dar solución a gran cantidad de necesidades como: 
               br
@@ -383,7 +437,7 @@
               br
               br
               |Ver figura que explica el proceso de flotación 
-          .col-md-6
+          .col-lg-6
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 16
               br
@@ -392,10 +446,10 @@
               img(src='@/assets/curso/temas/tema2/24.png', alt='Texto que describa la imagen')
               figcaption Nota. Tomado de El agua potable (s.f.). http://www.elaguapotable.com/decantacion.htm
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h4 ¿Qué es el sistema de flotación por aire inducido? 
             p Cuando el objetivo no es disponer de una gran eficiencia y calidad del agua y, la necesidad es disponer de un equipo robusto, fácil de utilizar, de bajo mantenimiento y económico, existe el sistema de flotación por aire inducido. En este el corazón del sistema es el inductor especial: el aireador impulsor gira creando un remolino y una depresión dentro de la celda que produce una aspiración del aire a través del eje hueco. El aire penetra en el líquido al llegar a la celda de aireación, mediante grandes cantidades de micro burbujas. La mezcla rica en aire es liberada en la celda de flotación facilitando la separación de fases (Aguas Sigma, 2016). 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/25.png', alt='Texto que describa la imagen')
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
@@ -413,17 +467,17 @@
     .tarjeta.bg-slyde.p-5.mb-5
       SlyderA(tipo='b')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h4 Objetivo principal 
             p De acuerdo con FRC Systems, el objetivo principal de un floculador es mezclar los coagulantes y los floculantes con el agua residual y formar sólidos que puedan flotar. Los componentes principales incluyen una estructura metálica, una entrada, válvulas de muestreo, válvulas de inyección, tuberías y una salida. Las tuberías están configuradas de manera ascendente y serpenteante para reducir la cantidad de espacio necesario para brindar un tiempo de reacción química suficiente (FRC Systems, 2015). 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/27.svg', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h4 Mecanismo – funcionamiento 
             p Lo que ocurre dentro de un floculador es un concepto bastante simple, se bombea agua hacia del floculador, inmediatamente después de la entrada se da inicio a la dosificación química, generalmente coagulantes, mediante válvulas de inyección. Más adelante se inyecta un polímero floculante y se mezcla en las secciones subsiguientes del floculador. Algunas unidades incluyen un medidor de pH en línea y puntos de inyección para agentes neutralizantes (FRC Systems, 2015), ver figura 18. 
-          .col-md-6
+          .col-lg-6
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 18
               br
@@ -432,17 +486,17 @@
               img(src='@/assets/curso/temas/tema2/28.png', alt='Texto que describa la imagen')
               figcaption Nota. Tomado de Acoua tecnología (2020). https://acquatecnologiaperu.com/producto/coagulantes-y-floculantes 
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h4 Dosificación química 
             p Se puede variar de acuerdo con el tipo de floculante, pues permite que las partículas coloidales desestabilizadas o las partículas formadas durante la etapa de coagulación se ensamblen en agregados y luego se puedan separar del medio acuoso; entre ellos se encuentran los floculantes catiónicos y los aniónicos (FRC systems, 2015). 
-          .col-md-6
+          .col-lg-6
             h4 Preparación de los floculantes aniónicos 
             p Los floculantes aniónicos son preparados a base de copolímeros de acrilamida y ácido acrílico, con carga iónica negativa. Se unen con cargas catiónicas residuales sobre coagulantes adsorbidos a coloides coagulados. Su poder floculante intrínseco aumenta con el peso molecular. Las poliacrilamidas tienen el peso molecular más alto en el intervalo de 10-20 millones. Otros polímeros presentan propiedades específicas para condiciones específicas (Ingeniería Liquid technologies, s.f.).
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             h4 Floculantes catiónicos 
             p Se basan en copolímeros de poliacrilamida que proporcionan una amplia gama de ionicidades además de los pesos moleculares necesarios para lograr el máximo rendimiento en cada aplicación. De acuerdo con Acoua tecnología (2020), puede haber varias cargas en un floculante. Hay polímeros catiónicos, basados en el nitrógeno, polímeros aniónicos, basados en los iones del carboxilato y los polianfolitos, que llevan cargas positivas y negativas.  
-          .col-md-6
+          .col-lg-6
             h4 Desestabilización de partículas 
             p Los principales coagulantes y floculantes utilizados para desestabilizar las partículas y producir floculantes en agua son: 
             .row.mb-5
@@ -498,10 +552,13 @@
           .col-md-4
             img(src='@/assets/curso/temas/tema2/31.png', alt='')
       .py-4.py-md-5.px-4(titulo="Clasificación de los filtros" style="background-color: #f3f9ff")
-        .row
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-lg-12.mb-4.mb-md-0
             p Los filtros pueden clasificarse de la siguiente manera, ver tabla 2. 
-          .col-md-6
+          .col-lg-10
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Tabla 2
+              span.fst-italic Velocidad de filtración
             .tabla-e.text-center.mb-5
               table
                 thead
@@ -578,15 +635,23 @@
         .col-lg-5
           h4 Digestión aeróbica convencional
           p En esta el lodo se airea durante un largo período de tiempo en un estanque abierto, sin calefacción, empleando difusores convencionales o aireadores superficiales. El proceso se puede llevar a cabo de manera continua o discontinua. En plantas de pequeño tamaño se emplea el sistema discontinuo, en el que el lodo se airea y se mezcla completamente durante un largo período de tiempo, dejándose sedimentar a continuación en el interior del mismo estanque (Aguamarket, 2017), ver figura 22.
+          .d-lg-none.d-block.mb-4
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 22
+              br
+              span.fst-italic  Tanque aerobio TAE  
+            img(src='@/assets/curso/temas/tema2/35.jpg', alt='')
+            figcaption Nota. Tomado de Ajover (s.f.). http://www.ajover.co/wp-content/uploads/2019/02/fichatecnicasistemasepticoecoajoverajover.pdf
           h4 Digestión con oxígeno y digestión aeróbica termófila 
           p En los sistemas continuos, la decantación y concentración del lodo se realiza en un estanque independiente. La digestión con oxígeno puro es una modificación del proceso de digestión aerobia en el que se sustituye el aire por oxígeno puro. El lodo que resulta es parecido al lodo que se obtiene en los procesos de digestión aerobia convencionales. La digestión aerobia termófila representa un refinamiento adicional del proceso de digestión aerobia. Este proceso puede permitir conseguir altos rendimientos de eliminación de la fracción biodegradable (superiores al 80%) en tiempos de detención cortos (3 a 4 días), mediante la acción de bacterias termófilas a temperaturas entre 25º y 50º C superiores a la temperatura ambiente (Aguamarket, 2017). 
         .col-lg-7.col-8
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 22
-            br
-            span.fst-italic  Tanque aerobio TAE  
-          img(src='@/assets/curso/temas/tema2/35.jpg', alt='')
-          figcaption Nota. Tomado de Ajover (s.f.). http://www.ajover.co/wp-content/uploads/2019/02/fichatecnicasistemasepticoecoajoverajover.pdf
+          .d-lg-block.d-none
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 22
+              br
+              span.fst-italic  Tanque aerobio TAE  
+            img(src='@/assets/curso/temas/tema2/35.jpg', alt='')
+            figcaption Nota. Tomado de Ajover (s.f.). http://www.ajover.co/wp-content/uploads/2019/02/fichatecnicasistemasepticoecoajoverajover.pdf
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Digestor anaerobio
     .row.justify-content-center.mb-5
@@ -602,9 +667,9 @@
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="¿Dónde sucede el proceso? " :icono="require('@/assets/curso/temas/tema2/37.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             p El proceso se lleva a cabo en un reactor completamente cerrado. Los lodos se introducen en el reactor de forma continua o intermitente, y permanecen en su interior durante períodos de tiempo variables. El lodo estabilizado, que se extrae del proceso continuo o intermitentemente, tiene un bajo contenido en materia orgánica y patógenos, y no es putrescible. Los dos tipos de digestores anaeróbicos más empleados son los de alta y baja carga. En el proceso de digestión de baja carga no se suele calentar, ni mezclar el contenido del digestor, y los tiempos de detención oscilan entre 30 y 60 días. En los procesos de digestión de alta carga el contenido del digestor se calienta y mezcla completamente (Aguamarket, 2017), ver figura 24.  
-          .col-md-6
+          .col-lg-6
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 24
               br
@@ -613,15 +678,15 @@
             figcaption Nota.  Tomado de Equimar (s.f.). http://equimar.mx/our-services/digestores-anaerobios-para-lodos/   
       .py-4.py-md-5(titulo="Etapas de la conversión biológica " :icono="require('@/assets/curso/temas/tema2/37.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             p La conversión biológica de la materia orgánica de los lodos parece que se produce en tres etapas. El primer paso del proceso comporta la transformación por vía enzimática (hidrólisis) de los compuestos de alto peso molecular en compuestos que puedan servir como fuentes de energía y de carbono celular. El segundo paso (acidogénesis) implica la conversión bacteriana de los compuestos producidos en la primera etapa en compuestos intermedios identificables de menor peso molecular. El tercer paso (metanogénesis) supone la conversión bacteriana de los compuestos intermedios en productos finales más simples, principalmente metano y dióxido de carbono. En un digestor, la conversión de los lodos orgánicos y de los residuos se lleva a cabo mediante la acción conjunta de diferentes organismos anaerobios (Aguamarket, 2017). 
-          .col-md-6
+          .col-lg-6
             img(src='@/assets/curso/temas/tema2/40.png', alt='')
       .py-4.py-md-5(titulo="Hidrolización" :icono="require('@/assets/curso/temas/tema2/37.svg')")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-md-0
             p Un grupo de microorganismos se ocupa de la hidrolización de los polímeros orgánicos y de los lípidos para formar elementos estructurales básicos como los monosacáridos, los aminoácidos y los compuestos relacionados con estos. Un segundo grupo de bacterias anaerobias fermenta los productos de la descomposición para producir ácidos orgánicos simples, de los que el que se presenta con mayor frecuencia en los digestores orgánicos es el ácido acético. Este grupo de microorganismos, que reciben el nombre de no metanogénicos, está formado por bacterias facultativas y anaerobias estrictas, aunque de forma colectiva se conocen como bacterias "formadoras de ácidos (Aguamarket, 2017). 
-          .col-md-6
+          .col-lg-6
             img(src='@/assets/curso/temas/tema2/41.png', alt='')
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Lechos bacterianos o filtros percoladores
@@ -669,15 +734,23 @@
         .col-lg-6.mb-lg-0.mb-3
           h4 Los biocilindros
           p Son una variante de los biodiscos, su principal diferencia es la sustitución de los discos por biocilindros, están formados por una malla metálica, cuyo interior se rellena de piezas de plástico que sirven de soporte a la biomasa. En estos sistemas se produce un exceso de biomasa que se desprende del contactor, esta se mantiene en suspensión en el tanque gracias al movimiento del material soporte. Para regular la cantidad de microorganismos presentes en el sistema se dispone de un clarificador o decantador secundario, en él se produce la sedimentación del exceso de biomasa (Cyclusid, 2020), ver figura 29. 
+          .d-lg-none.d-block.mb-4
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 29
+              br
+              span.fst-italic  Esquema del sistema de biodiscos 
+            img(src='@/assets/curso/temas/tema2/47.jpg', alt='')
+            figcaption Nota. Tomado de Delgado (2018). http://revistas.uni.edu.pe/index.php/tecnia/article/view/545/1076  
           h4 Características notables del proceso con biodiscos 
           p Notable elasticidad, es decir, es capaz de absorber elevadas puntas de carga orgánica e hidráulica, manteniendo muy estables los niveles de salida. No requiere recirculación de fangos; el fango activo del proceso es el que permanece adherido a los discos. Si la carga aumenta, la película bacteriana crece espontáneamente y los sólidos en suspensión a la salida del biodisco disminuyen. Si la carga disminuye, la biomasa se desprende y aumentan los sólidos en el efluente al decantador secundario. No es necesario controlar la concentración del licor de mezcla, ya que el fango extraído es un desecho del proceso y ha de eliminarse como mejor convenga. 
         .col-lg-6(data-aos="fade-left")
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 29
-            br
-            span.fst-italic  Esquema del sistema de biodiscos 
-          img(src='@/assets/curso/temas/tema2/47.jpg', alt='')
-          figcaption Nota. Tomado de Delgado (2018). http://revistas.uni.edu.pe/index.php/tecnia/article/view/545/1076  
+          .d-lg-block.d-none
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 29
+              br
+              span.fst-italic  Esquema del sistema de biodiscos 
+            img(src='@/assets/curso/temas/tema2/47.jpg', alt='')
+            figcaption Nota. Tomado de Delgado (2018). http://revistas.uni.edu.pe/index.php/tecnia/article/view/545/1076  
       h4 Ruidos y otras variables 
       p.mb-5(data-aos='fade-right') El nivel de ruidos es muy bajo, factor que es muy importante tanto ambientalmente como por higiene y salud del personal. Las dimensiones de los depósitos de oxidación son menores que los utilizados por otros procesos. El rendimiento del proceso es más estable en épocas frías, debido al hecho de permanecer cubiertos los tanques. El consumo energético es muy reducido y a igualdad de resultados, comparándolo con un sistema de fangos activos, el consumo resulta ser la tercera parte Hidrometalica (s.f.). 
       h4 El funcionamiento de los biodiscos
@@ -733,38 +806,38 @@
           p #[b Vaciado:] extracción del agua clarificada del reactor. El exceso de lodo activado residual es removido; este proceso toma tiempo, puede tardar entre un 5% y un 30% del tiempo total (Domos agua, 2019). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Filtros verdes y humedales artificiales
+    p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 33.
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")
-        p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 33.
-        .tarjeta.p-4(style="background-color: #fdf8e4 ")
-          h4 Filtros verdes
-          p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 34.
-          .row.justify-content-center.mb-5
-            .col-lg-10 
-              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 34 
-                br
-                span.fst-italic Tratamiento de aguas residuales mediante humedales artificiales 
-              img(src='@/assets/curso/temas/tema2/57.png', alt='')
-              figcaption Nota. Tomado de Construyored (2018). https://construyored.com/oportunidades/6216-tratamiento-de-aguas-residuales-mediante-humedales-artificiales-el-sistema-frances-i  
-          h4 Depuración de los filtros verdes 
-          p De acuerdo con la Universidad Veracruzana los mecanismos de depuración de los filtros verdes son, en primera instancia, los procesos físicos: granulometría y textura. Luego, procesos químicos: pH, capacidad de intercambio iónico, condiciones de aireación y encharcamiento. En tercer lugar, procesos biológicos: raíces, microorganismos (Universidad Veracruzana, s.f.), ver figura 35. 
-          .row.justify-content-center.mb-5
-            .col-lg-10 
-              .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 35
-                br
-                span.fst-italic Bioingeniería
-              img(src='@/assets/curso/temas/tema2/58.png', alt='')
-              figcaption Nota. Tomado de la Universidad Veracruzana (s.f.). https://sites.google.com/site/bioingenieriauv15/unidad-1-sistemas-de-depuracion-de-agua/1-3-filtros-verdes  
-      .col-lg-4.col-8
+      .col-lg-4.col-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 33
-          br
-          span.fst-italic Filtros verdes en depuración de aguas residuales. 
+            h5 Figura 33
+            br
+            span.fst-italic Filtros verdes en depuración de aguas residuales. 
         img(src='@/assets/curso/temas/tema2/59.png', alt='')
-        fitgcaption Nota. Tomado de TECPA (2018). https://www.tecpa.es/filtro-verde-depuracion-aguas-residuales
-        img(src='@/assets/curso/temas/tema2/60.jpg', alt='').d-none.d-lg-block
+        figcaption Nota. Tomado de TECPA (2018). https://www.tecpa.es/filtro-verde-depuracion-aguas-residuales
+      .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")
+        h4 Filtros verdes
+        p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 34.
+        .row.justify-content-center.mb-5
+          .col-lg-10 
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 34 
+              br
+              span.fst-italic Tratamiento de aguas residuales mediante humedales artificiales 
+            img(src='@/assets/curso/temas/tema2/57.png', alt='')
+            figcaption Nota. Tomado de Construyored (2018). https://construyored.com/oportunidades/6216-tratamiento-de-aguas-residuales-mediante-humedales-artificiales-el-sistema-frances-i  
+    .mn(style="background-color: #fdf8e5 ").p-5.mb-4
+      .row.justify-content-center.mb-5
+        .col-lg-5.mb-lg-0.mb-3
+          h4 Depuración de los filtros verdes 
+          p De acuerdo con la Universidad Veracruzana los mecanismos de depuración de los filtros verdes son, en primera instancia, los procesos físicos: granulometría y textura. Luego, procesos químicos: pH, capacidad de intercambio iónico, condiciones de aireación y encharcamiento. En tercer lugar, procesos biológicos: raíces, microorganismos (Universidad Veracruzana, s.f.), ver figura 35.
+        .col-lg-7
+          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            h5 Figura 35
+            br
+            span.fst-italic Bioingeniería
+          img(src='@/assets/curso/temas/tema2/58.png', alt='')
+          figcaption Nota. Tomado de la Universidad Veracruzana (s.f.). https://sites.google.com/site/bioingenieriauv15/unidad-1-sistemas-de-depuracion-de-agua/1-3-filtros-verdes  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0  Reactor biológico de membrana (MBR)
     .row.justify-content-center.mb-5
@@ -820,9 +893,17 @@
         figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Electrocoagulación
+    p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 39. 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="fade-right")
-        p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 39. 
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            h5 Figura 39 
+            br 
+            span.fst-italic Electrocoagulación
+        img(src='@/assets/curso/temas/tema2/67.png', alt='')
+        figcaption.mb-4 Nota. Tomado de Hidritec (s.f.). http://www.hidritec.com/hidritec/electrocoagulacion  
+    .row.justify-content-center.mb-5
+      .col-lg-12(data-aos="fade-right")
         .tarjeta.p-4(style="background-color: #fdf8e4 ")
           h4 Desestabilización de los coloides 
           p.mb-5  Mediante el procedimiento de electrocoagulación se aplica una diferencia de potencial a unos electrodos metálicos (normalmente aluminio y/o hierro). De esta forma, se produce una rápida desestabilización de los coloides por aplicación eléctrica y disolución de iones metálicos de los electrodos empleados. 
@@ -831,33 +912,24 @@
           .row.justify-content-center.mb-5
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 34 
+                h5 Figura 40
                 br
                 span.fst-italic Electrocoagulación
               img(src='@/assets/curso/temas/tema2/66.png', alt='')
               figcaption Nota. Tomado de Hidritec (s.f). Electrocoagulación (Anexos / Figura 46) http://www.hidritec.com/hidritec/electrocoagulacion 
-          h4 Eliminación de sólidos, aceites y grasas 
-          p.mb-5 El sistema se suministra en una planta premontada con la parrilla de electrodos en forma de placas y dimensionada para el caso concreto, incluyendo el cuadro de control y potencia del equipo. De forma habitual, se suministra con un sistema de decantación lamelar o separador por flotación DAF para lograr un mayor rendimiento en la eliminación de los sólidos, aceites y grasas desestabilizados.  
-          h4 Biodegradabilidad
-          p El sistema es apropiado para aguas residuales de tipo industrial con altas cargas de DQO, sólidos en suspensión, grasas, aceites y color como tratamiento único o bien como pretratamiento biológico, mejorando la biodegradabilidad del agua residual (Hidritec, s.f.). 
-      .col-lg-4.col-8 
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 39 
-          br 
-          span.fst-italic Electrocoagulación
-        img(src='@/assets/curso/temas/tema2/67.png', alt='')
-        figcaption.mb-4 Nota. Tomado de Hidritec (s.f.). http://www.hidritec.com/hidritec/electrocoagulacion  
-        img(src='@/assets/curso/temas/tema2/68.jpg', alt='').d-none.d-lg-block 
+    h4 Eliminación de sólidos, aceites y grasas 
+    p.mb-5 El sistema se suministra en una planta premontada con la parrilla de electrodos en forma de placas y dimensionada para el caso concreto, incluyendo el cuadro de control y potencia del equipo. De forma habitual, se suministra con un sistema de decantación lamelar o separador por flotación DAF para lograr un mayor rendimiento en la eliminación de los sólidos, aceites y grasas desestabilizados.  
+    h4 Biodegradabilidad
+    p El sistema es apropiado para aguas residuales de tipo industrial con altas cargas de DQO, sólidos en suspensión, grasas, aceites y color como tratamiento único o bien como pretratamiento biológico, mejorando la biodegradabilidad del agua residual (Hidritec, s.f.). 
+        
     Separador 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.4 Tratamientos terciarios del agua residual 
+    p La finalidad de los tratamientos terciarios es eliminar la carga orgánica residual y aquellas otras sustancias contaminantes no eliminadas en los tratamientos secundarios, como por ejemplo, los nutrientes, fósforo y nitrógeno. Estos procesos son de naturaleza biológica o fisicoquímica, siendo el proceso unitario más empleado el tratamiento fisicoquímico. Este consta de una coagulación – floculación y una decantación (Cyclusid depuración industrial, s.f.). 
     .row.justify-content-center.mb-5
       .col-lg-5.col-8(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/69.svg', alt='')
       .col-lg-7(data-aos="fade-right")
-        p La finalidad de los tratamientos terciarios es eliminar la carga orgánica residual y aquellas otras sustancias contaminantes no eliminadas en los tratamientos secundarios, como por ejemplo, los nutrientes, fósforo y nitrógeno. Estos procesos son de naturaleza biológica o fisicoquímica, siendo el proceso unitario más empleado el tratamiento fisicoquímico. Este consta de una coagulación – floculación y una decantación (Cyclusid depuración industrial, s.f.). 
-          br
-          br
-          |Otros procesos empleados como tratamientos terciarios son las resinas de intercambios de iones, la adsorción en carbón activo, la ultrafiltración, la ósmosis inversa, la electrodesinfección, las membranas cerámicas, etc. 
+          p Otros procesos empleados como tratamientos terciarios son las resinas de intercambios de iones, la adsorción en carbón activo, la ultrafiltración, la ósmosis inversa, la electrodesinfección, las membranas cerámicas, etc. 
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-primario.p-3.mb-5

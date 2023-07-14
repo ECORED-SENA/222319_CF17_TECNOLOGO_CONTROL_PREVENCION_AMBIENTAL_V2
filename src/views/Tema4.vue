@@ -24,19 +24,23 @@
               .row.justify-content-between.align-items-center
                 .col-12.mb-3.mb-sm-0
                   h4.mb-1.fw-normal Visite los documentos que aquí se le proponen. Mediante su lectura consciente podrá apropiar los elementos de desarrollo de protocolos de mantenimiento preventivo y correctivo.
-          a.anexo.mb-4(href="https://www.emdupar.gov.co/index.php/la-entidad/sistema-integrado-de-gestion/Planeacion/Manuales/MA-GM-01%20MANUAL%20DE%20OPERACION%20Y%20MANTENIMIENTO%20PTAR.pdf/download" target="_blank" type="application/pdf")
-            .row.justify-content-around.align-items-center
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto(style="color: #12263F")
-                p #[b Anexo.] Manual de operación y mantenimiento el sistema de tratamiento de aguas residuales.
-          a.anexo.mb-4(href="https://www.emdupar.gov.co/index.php/la-entidad/sistema-integrado-de-gestion/Planeacion/Manuales/MA-GM-01%20MANUAL%20DE%20OPERACION%20Y%20MANTENIMIENTO%20PTAR.pdf/download" target="_blank" type="application/pdf")
-            .row.justify-content-around.align-items-center
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto
-                p(style="color: #12263F") #[b Anexo.] Manual de operación, mantenimiento y limpieza PTAR.
-                  
+          .row.justify-content-center
+            .col-lg-7
+              a.anexo.mb-4(:href="obtenerLink('downloads/doc1.pdf')" target="_blank" type="application/pdf")
+                .row.justify-content-around.align-items-center
+                  .anexo__icono
+                    img(src="@/assets/template/icono-pdf.svg")
+                  .anexo__texto(style="color: #12263F")
+                    p #[b Anexo.] Manual de operación y mantenimiento el sistema de tratamiento de aguas residuales.
+          .row.justify-content-center.mb-5
+            .col-lg-7
+              a.anexo.mb-4(:href="obtenerLink('downloads/doc2.pdf')" target="_blank" type="application/pdf")
+                .row.justify-content-around.align-items-center
+                  .anexo__icono
+                    img(src="@/assets/template/icono-pdf.svg")
+                  .anexo__texto
+                    p(style="color: #12263F") #[b Anexo.] Manual de operación, mantenimiento y limpieza PTAR.
+                
 
 </template>
 

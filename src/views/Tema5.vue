@@ -111,12 +111,14 @@
               .row.justify-content-between.align-items-center
                 .col-12.mb-3.mb-sm-0
                   h4.mb-1.fw-normal Visite los documentos que aquí se le proponen. Mediante su lectura consciente podrá apropiar los elementos de desarrollo de protocolos de mantenimiento preventivo y correctivo.
-          a.anexo.mb-4(:href="obtenerLink('downloads/anexo5.pdf')" target="_blank")
-            .row.justify-content-around.align-items-center
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto(style="color: #12263F")
-                p #[b Anexo.] Manual de operación y mantenimiento el sistema de tratamiento de aguas residuales.
+          .row.justify-content-center
+            .col-lg-7
+              a.anexo.mb-4(:href="obtenerLink('downloads/anexo5.pdf')" target="_blank")
+                .row.justify-content-around.align-items-center
+                  .anexo__icono
+                    img(src="@/assets/template/icono-pdf.svg")
+                  .anexo__texto(style="color: #12263F")
+                    p #[b Anexo.] Manual de operación y mantenimiento el sistema de tratamiento de aguas residuales.
 
 
 

@@ -415,7 +415,7 @@ export default {
       autores: [
         {
           nombre: 'Juan Daniel Polanco',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
         },
@@ -439,13 +439,13 @@ export default {
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres ',
-          cargo: 'Ilustración ',
+          cargo: 'Storyboard e Ilustración',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Carlos Eduardo Garavito Parada ',
-          cargo: 'Producción audiovisual ',
+          cargo: 'Animador Productor Multimedia',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -456,13 +456,15 @@ export default {
       autores: [
         {
           nombre: 'Luis Gabriel Urueta',
-          cargo: 'Validación contenido',
-          centro: 'Nombre centro formación',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Daniel Mutis',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
