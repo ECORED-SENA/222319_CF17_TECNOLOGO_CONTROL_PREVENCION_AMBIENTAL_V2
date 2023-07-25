@@ -18,8 +18,12 @@
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 2.1 Tipos 
       p.mb-5(data-aos='fade-right') En la siguiente tabla se muestra la clasificación de algunos de los tratamientos más usuales de agua residual, de acuerdo con su tipo. Haga un estudio juicioso de esta tabla y tome nota atenta de los aspectos más importantes en este punto “Tipos de tratamiento”: 
+
       .row.justify-content-center.mb-5
         .col-lg-10
+          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            h5 Tabla 1 
+            span.fst-italic Tipos de tratamiento
           .tabla-a.text-start
             table
               thead
@@ -38,10 +42,10 @@
                         p.mb-0.fw-bold Desbaste
                       li.d-flex.mb-1
                         span.text-bold - 
-                        p.mb-0  Tamizado
+                        p.mb-0.fw-bold  Tamizado
                       li.d-flex.mb-1
                         span.text-bold - 
-                        p.mb-0  Cribado
+                        p.mb-0.fw-bold  Cribado
                       li.d-flex.mb-1
                         span.text-bold - 
                         p.mb-0.fw-bold Desarenadores
@@ -90,10 +94,10 @@
                         p.mb-0.fw-bold Digestores
                       li.d-flex.mb-1
                         span.text-bold - 
-                        p.mb-0.fw-bold #[span.fw-normal Aerobios]
+                        p.mb-0.fw-bold  Aerobios
                       li.d-flex.mb-1
                         span.text-bold - 
-                        p.mb-0.fw-bold #[span.fw-normal Anaerobios] 
+                        p.mb-0.fw-bold  Anaerobios 
                       li.d-flex.mb-1
                         span.text-bold - 
                         p.mb-0.fw-bold Biodiscos 
@@ -178,10 +182,10 @@
         h4.mb-0 Desbaste
       .row.justify-content-center.mb-5
         .col-lg-7.mb-lg-0.mb-3(data-aos="fade-right")
-          p Es una operación en la que se eliminan los sólidos de mayor tamaño del agua residual. El agua se hace pasar por rejas o tamices y tiene como objetivo separar todos aquellos materiales de tamaño excesivamente grueso que, además de representar por sí una forma de contaminación (sólidos en suspensión), pueden dañar u obstaculizar las fases sucesivas del tratamiento, ver figura 2. 
+          p Es una operación en la que se eliminan los sólidos de mayor tamaño del agua residual. El agua se hace pasar por rejas o tamices y tiene como objetivo separar todos aquellos materiales de tamaño excesivamente grueso que, además de representar por sí una forma de contaminación (sólidos en suspensión), pueden dañar u obstaculizar las fases sucesivas del tratamiento, ver figura 1. 
         .col-lg-5.col-8(data-aos="fade-left")
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 2
+            h5 Figura 1
             br
             span.fst-italic Rejas de desbaste 
           img(src='@/assets/curso/temas/tema2/3.png', alt='')
@@ -193,9 +197,9 @@
         .col-lg-6.mb-lg-0.mb-3
           .tarjeta.p-5.mb-4(style="background-color: #dee9f0 ").h-100
             h4 Rejas de desbaste de gruesos
-            p Son rejas de desbaste para filtrar sólidos grandes; están compuestas por un recipiente y una reja con una separación entre barrotes de 12mm a 25mm, retienen la mayoría de los sólidos grandes y dejan pasar los sólidos más finos para que puedan ser tratados (Deagua, 2020), ver figura 3. 
+            p Son rejas de desbaste para filtrar sólidos grandes; están compuestas por un recipiente y una reja con una separación entre barrotes de 12mm a 25mm, retienen la mayoría de los sólidos grandes y dejan pasar los sólidos más finos para que puedan ser tratados (Deagua, 2020), ver figura 2. 
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 3
+              h5 Figura 2
               br
               span.fst-italic Rejas de desbaste
             figure
@@ -204,9 +208,9 @@
         .col-lg-6.mb-lg-0.mb-3
           .tarjeta.p-5.mb-4(style="background-color: #dee9f0 ").h-100
             h4 Rejas de desbaste de finos
-            p Son rejas de desbaste para filtrar sólidos finos, están compuestas por un recipiente y una reja con una separación entre barrotes de 6mm a 12mm, retienen los sólidos grandes y la mayoría de los sólidos finos, y solo dejan pasar los fangos más finos para que puedan ser tratados (Deagua, 2020), ver figura 4. 
+            p Son rejas de desbaste para filtrar sólidos finos, están compuestas por un recipiente y una reja con una separación entre barrotes de 6mm a 12mm, retienen los sólidos grandes y la mayoría de los sólidos finos, y solo dejan pasar los fangos más finos para que puedan ser tratados (Deagua, 2020), ver figura 3. 
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 4
+              h5 Figura 3
               br
               span.fst-italic Rejas de desbaste finos
             figure
@@ -220,9 +224,9 @@
         .col-lg-6.mb-lg-0.mb-3
           .tarjeta.p-5.mb-4(style="background-color: #dee9f0 ").h-100
             h4 Cada tipo de reja de desbaste está compuesta de:
-            p Reja de desbaste de gruesos, recipiente, tapa de registro, tubería de entrada y de salida, reja con separación entre barrotes de 12-25mm, reja de desbaste de finos, recipiente, tapa de registro, tubería de entrada y de salida y reja con separación entre barrotes de 6-12mm (Deagua, 2020, ver figura 5. 
+            p Reja de desbaste de gruesos, recipiente, tapa de registro, tubería de entrada y de salida, reja con separación entre barrotes de 12-25mm, reja de desbaste de finos, recipiente, tapa de registro, tubería de entrada y de salida y reja con separación entre barrotes de 6-12mm (Deagua, 2020, ver figura 4. 
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 5
+              h5 Figura 4
               br
               span.fst-italic Desbastes 
             figure
@@ -230,11 +234,11 @@
               figcaption Nota. Tomado de Deagua (2020). http://blogdeagua.es/reja-de-desbaste/
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Desarenado 
-    p.mb-5(data-aos='fade-right') El proceso de desarenado se utiliza para separar la arena, la grava, etc., arrastrada en suspensión por el efluente. Esta arena origina depósitos en canales y tuberías, abrasión y desgaste sobre los elementos mecánicos en movimiento y dificulta la eliminación y digestión de los lodos separados en los tanques de sedimentación, al aumentar su densidad (Cyclusid depuración industrial, s.f.), ver figura 6.
+    p.mb-5(data-aos='fade-right') El proceso de desarenado se utiliza para separar la arena, la grava, etc., arrastrada en suspensión por el efluente. Esta arena origina depósitos en canales y tuberías, abrasión y desgaste sobre los elementos mecánicos en movimiento y dificulta la eliminación y digestión de los lodos separados en los tanques de sedimentación, al aumentar su densidad (Cyclusid depuración industrial, s.f.), ver figura 5.
     .row.justify-content-center.mb-5
       .col-lg-5.col-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 6
+          h5 Figura 5
           span Desarenador
         img(src='@/assets/curso/temas/tema2/7.jpg', alt='')
         figcaption #[b Nota.] Desarenador Santa Fe de la Laguna, Quiroga Michoacán. Tomado de Rivas (s.f.). https://sswm.info/es/gass-perspective-es/tecnologias-de/tecnologias-de-saneamiento-del-sistema/tratamiento-semi/tecnolog%C3%ADas-de-pretratamiento  
@@ -245,22 +249,22 @@
         .tarjeta.p-4(style="background-color: #eaf8f2").mb-4
           p.mb-0 #[b • Desarenadores de flujo vertical:] están compuestos por varios compartimentos, de tal manera que dé inicio a fin y, la velocidad sea decreciente, a través de estos compartimentos el agua fluye de forma vertical. En estos desarenadores se lleva a cabo la floculación (proceso químico en el que se añaden sustancias denominadas floculantes para hacer más eficiente la decantación de las partículas suspendidas). Los materiales con los que se construyen las paredes de los compartimentos son concreto, asbesto o madera y la profundidad de estos es de tres a cuatro metros. 
         .tarjeta.p-4(style="background-color: #eaf8f2").mb-4
-          p.mb-0 #[b • Desarenadores de flujo inducido:] estos desarenadores tienen forma rectangular y en ellos se inyecta aire mediante aireadores tipo turbina para producir el movimiento del agua en forma de espiral, lo cual produce la decantación de los sólidos suspendidos. Este proceso también favorece la deposición de la materia orgánica. Posteriormente, se lleva a cabo la separación de las arenas de forma manual o mecanizada, de acuerdo con el tamaño de la planta, ver figura 7. 
+          p.mb-0 #[b • Desarenadores de flujo inducido:] estos desarenadores tienen forma rectangular y en ellos se inyecta aire mediante aireadores tipo turbina para producir el movimiento del agua en forma de espiral, lo cual produce la decantación de los sólidos suspendidos. Este proceso también favorece la deposición de la materia orgánica. Posteriormente, se lleva a cabo la separación de las arenas de forma manual o mecanizada, de acuerdo con el tamaño de la planta, ver figura 6. 
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 7
+          h5 Figura 6
           br
           span.fst-italic Desarenadores 
         img(src='@/assets/curso/temas/tema2/8.jpg', alt='Ilustración que muestra un desarenador y sus partes: canal de llegada, compuerta de admisión, cámara de sedimentación, canal directo, compuerta de lavado, vertedero, canal de lavado, canal de salida.')
         figcaption Nota. Tomado de Universidad de Loja (2015).  https://vdocuments.mx/calculo-del-desarenador.html  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Desengrasado
-    p.mb-5(data-aos='fade-right') Después de cualquiera de los tres procesos de desarenado se tiene que efectuar un desengrasado para separar las grasas y aceites de los canales, previniendo que los siguientes procesos se vean afectados. Aunque existen desarenadores que llevan el proceso de desengrasado de manera conjunta con el desarenado mediante aire comprimido (Domos agua, 2018), ver figura 8.
+    p.mb-5(data-aos='fade-right') Después de cualquiera de los tres procesos de desarenado se tiene que efectuar un desengrasado para separar las grasas y aceites de los canales, previniendo que los siguientes procesos se vean afectados. Aunque existen desarenadores que llevan el proceso de desengrasado de manera conjunta con el desarenado mediante aire comprimido (Domos agua, 2018), ver figura 7.
     .row.justify-content-center.mb-5
       .col-lg-6.col-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 8
+          h5 Figura 7
           br
           span.fst-italic Desarenado, desengrasado y elevación 
         img(src='@/assets/curso/temas/tema2/9.jpg', alt='Ilustración que muestra el proceso de desarenado, desengrasado y elevación desde el canal de recogida de arenas hasta el canal de recogida de grasas.')
@@ -287,10 +291,10 @@
       h4.mb-0 Homogenización
     .row.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right").mb-lg-0.mb-3
-        p  La situación más habitual es que la entrada de agua residual a la planta depuradora sea variable en el tiempo, tanto en lo que respecta al caudal como a la carga contaminante. Estas variaciones, especialmente las descargas, dificultan el correcto desarrollo de los tratamientos, ya sean de tipo fisicoquímico o biológico. Para solventar tales problemas se puede recurrir a la igualación de caudales y/o a la homogeneización de la concentración de contaminantes, es decir, optimizar las condiciones operativas de las fases siguientes (Cyclusid depuración industrial, s.f.), ver figura 9.
+        p  La situación más habitual es que la entrada de agua residual a la planta depuradora sea variable en el tiempo, tanto en lo que respecta al caudal como a la carga contaminante. Estas variaciones, especialmente las descargas, dificultan el correcto desarrollo de los tratamientos, ya sean de tipo fisicoquímico o biológico. Para solventar tales problemas se puede recurrir a la igualación de caudales y/o a la homogeneización de la concentración de contaminantes, es decir, optimizar las condiciones operativas de las fases siguientes (Cyclusid depuración industrial, s.f.), ver figura 8.
       .col-lg-6.col-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 9
+          h5 Figura 8
           br
           span.fst-italic Tanque de homogenización
         img(src='@/assets/curso/temas/tema2/10.jpg', alt='')
@@ -325,9 +329,9 @@
       h4.mb-0 Sedimentación
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")
-        p Es un proceso de separación por gravedad que hace que una partícula más densa que el agua tenga una trayectoria descendente, depositándose en el fondo del sedimentador. Está en función de la densidad del líquido, del tamaño, del peso específico y de la morfología de las partículas (Acuatecnia S.A.S, 2018), ver figuras 10 y 11. 
+        p Es un proceso de separación por gravedad que hace que una partícula más densa que el agua tenga una trayectoria descendente, depositándose en el fondo del sedimentador. Está en función de la densidad del líquido, del tamaño, del peso específico y de la morfología de las partículas (Acuatecnia S.A.S, 2018), ver figuras 9 y 10. 
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 10 
+          h5 Figura 9 
           br
           span.fst-italic Sedimentador circular
         img(src='@/assets/curso/temas/tema2/14.jpg', alt='')
@@ -335,7 +339,7 @@
       .col-lg-4(data-aos="fade-left")
         .tarjeta.p-3(style="background-color: #fdf8e4")
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 11
+            h5 Figura 10
             br
             span.fst-italic  Decantación primaria
           img(src='@/assets/curso/temas/tema2/15.png', alt='')
@@ -358,7 +362,7 @@
           .row.justify-content-center.mb-5
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 12 
+                h5 Figura 11 
                 br
                 span.fst-italic Decantación
               img(src='@/assets/curso/temas/tema2/17.jpg', alt='')
@@ -367,7 +371,7 @@
 
     .bg-1.py-4.px-5.mb-5
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        h5 Figura 13 
+        h5 Figura 12
         br
         span.fst-italic Tipos de sedimentadores 
       img(src='@/assets/curso/temas/tema2/18.svg', alt='Diagrama que enuncia los tipos de sedimentadores: Estáticos, que son de flujo vertical y horizontal, los dinámicos, que son de manto de lodos y los luminares, que pueden ser de láminas horizontales o inclinadas.')
@@ -380,7 +384,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10.mb-lg-0.mb-3(data-aos="fade-right") 
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 14
+          h5 Figura 13
           br
           span Sedimentadores
         img(src='@/assets/curso/temas/tema2/19.svg', alt='')
@@ -389,14 +393,14 @@
       h4.mb-0 Flotación
     .row.justify-content-center.mb-5
       .col-lg-6.col-12(data-aos="fade-right")
-        p Es un proceso físico fundamentado en la diferencia de densidades. La flotación permite separar la materia sólida o líquida de menor densidad que la del fluido, por ascenso de esta hasta la superficie del fluido, ya que en este caso las fuerzas que tiran hacia arriba (rozamiento y empuje del líquido) superan a la fuerza de la gravedad. Se generan pequeñas burbujas de gas (aire), que se asociarán a las partículas presentes en el agua y serán elevadas hasta la superficie, donde son arrastradas y sacadas del sistema (Acuatecnia S.A.S., 2018), ver figura 15.  
+        p Es un proceso físico fundamentado en la diferencia de densidades. La flotación permite separar la materia sólida o líquida de menor densidad que la del fluido, por ascenso de esta hasta la superficie del fluido, ya que en este caso las fuerzas que tiran hacia arriba (rozamiento y empuje del líquido) superan a la fuerza de la gravedad. Se generan pequeñas burbujas de gas (aire), que se asociarán a las partículas presentes en el agua y serán elevadas hasta la superficie, donde son arrastradas y sacadas del sistema (Acuatecnia S.A.S., 2018), ver figura 14.  
       .col-lg-6.col-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 15
+          h5 Figura 14
           br
           span.fst-italic  Sistema de flotación
         img(src='@/assets/curso/temas/tema2/21.png', alt='')
-        figcaption Nota. Tomado de Aguas Sigma (2016). http://aguasigma.com/es/equipos-tratamiento-aguas/sistema-daf.html  
+        figcaption Nota. Tomado de Aguas Sigma (2016). https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJB-
     .tarjeta.bg-slyde.p-5.mb-5
       SlyderA(tipo='b')
         .row
@@ -439,7 +443,7 @@
               |Ver figura que explica el proceso de flotación 
           .col-lg-6
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 16
+              h5 Figura 15
               br
               span.fst-italic Flotación 
             figure
@@ -456,10 +460,10 @@
       h4.mb-0 Coagulación-floculación
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
-        p En muchos casos parte de la materia en suspensión está formada por partículas de muy pequeño tamaño, lo que conforma una suspensión coloidal. Estas suspensiones coloidales suelen ser muy estables, en muchas ocasiones debido a interacciones eléctricas entre las partículas. Por tanto, tienen una velocidad de sedimentación extremadamente lenta, por lo que haría inviable un tratamiento mecánico clásico. Una forma de mejorar la eficacia de todos los sistemas de eliminación de materia en suspensión es la adición de ciertos reactivos químicos que, en primer lugar, desestabilicen la suspensión coloidal (coagulación) y a continuación favorezcan la floculación de estas para obtener partículas fácilmente sedimentables (Acuatecnia S.A.S., 2018), ver figura 17. 
+        p En muchos casos parte de la materia en suspensión está formada por partículas de muy pequeño tamaño, lo que conforma una suspensión coloidal. Estas suspensiones coloidales suelen ser muy estables, en muchas ocasiones debido a interacciones eléctricas entre las partículas. Por tanto, tienen una velocidad de sedimentación extremadamente lenta, por lo que haría inviable un tratamiento mecánico clásico. Una forma de mejorar la eficacia de todos los sistemas de eliminación de materia en suspensión es la adición de ciertos reactivos químicos que, en primer lugar, desestabilicen la suspensión coloidal (coagulación) y a continuación favorezcan la floculación de estas para obtener partículas fácilmente sedimentables (Acuatecnia S.A.S., 2018), ver figura 16. 
       .col-lg-6.col-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 17
+          h5 Figura 16
           br
           span.fst-italic Floculadores 
         img(src='@/assets/curso/temas/tema2/26.png', alt='Texto que describa la imagen')
@@ -476,10 +480,10 @@
         .row
           .col-lg-6.mb-4.mb-md-0
             h4 Mecanismo – funcionamiento 
-            p Lo que ocurre dentro de un floculador es un concepto bastante simple, se bombea agua hacia del floculador, inmediatamente después de la entrada se da inicio a la dosificación química, generalmente coagulantes, mediante válvulas de inyección. Más adelante se inyecta un polímero floculante y se mezcla en las secciones subsiguientes del floculador. Algunas unidades incluyen un medidor de pH en línea y puntos de inyección para agentes neutralizantes (FRC Systems, 2015), ver figura 18. 
+            p Lo que ocurre dentro de un floculador es un concepto bastante simple, se bombea agua hacia del floculador, inmediatamente después de la entrada se da inicio a la dosificación química, generalmente coagulantes, mediante válvulas de inyección. Más adelante se inyecta un polímero floculante y se mezcla en las secciones subsiguientes del floculador. Algunas unidades incluyen un medidor de pH en línea y puntos de inyección para agentes neutralizantes (FRC Systems, 2015), ver figura 17. 
           .col-lg-6
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 18
+              h5 Figura 17
               br
               span.fst-italic Coagulantes y floculantes 
             figure
@@ -526,14 +530,14 @@
                       |Polielectrolitos (Acoua tecnología, 2020).
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Filtración
-    p.mb-5(data-aos='fade-right') Es una operación en la que se hace pasar el agua a través de un medio poroso, con el objetivo de retener la mayor cantidad posible de materia en suspensión. El medio poroso tradicionalmente utilizado es un lecho de arena, de altura variable (Acuatecnia S.A.S., 2018), ver figura 19. 
+    p.mb-5(data-aos='fade-right') Es una operación en la que se hace pasar el agua a través de un medio poroso, con el objetivo de retener la mayor cantidad posible de materia en suspensión. El medio poroso tradicionalmente utilizado es un lecho de arena, de altura variable (Acuatecnia S.A.S., 2018), ver figura 18. 
     .row.justify-content-center.mb-5
       .col-lg-10
         .rounded-2.p-5(style="background-color: #dee9f0 ")
           .row.justify-content-center.mb-5
             .col-lg-8
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 19 
+                h5 Figura 18 
                 br
                 span.fst-italic Filtración 
               img(src='@/assets/curso/temas/tema2/29.jpg', alt='')
@@ -585,7 +589,7 @@
                       |Antracita (35 - 50 cm) 
                       br
                       |Arena (20-35 cm)
-                    td(rowspan="2") Por presion
+                    td(rowspan="2") Por presión
                   tr
                     td Mixtos: arena, 
                       br
@@ -605,7 +609,7 @@
       .py-4.py-md-5.px-4(titulo="Otras clasificaciones" style="background-color: #f3f9ff")
         .row
           .col-md-8.mb-4.mb-md-0
-            p De igual forma, los filtros también se clasifican por medio filtrante, es decir, el material de relleno en cantidad, capas y características según las necesidades del agua a tratar, ver figura 20.
+            p De igual forma, los filtros también se clasifican por medio filtrante, es decir, el material de relleno en cantidad, capas y características según las necesidades del agua a tratar, ver figura 19.
           .col-md-4
             img(src='@/assets/curso/temas/tema2/32.png', alt='')
     Separador
@@ -622,10 +626,10 @@
       h4.mb-0 Digestor aeróbico
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
-        p Es un método alternativo de tratar los lodos orgánicos producidos en el curso de las diversas operaciones de tratamiento. Los digestores aeróbicos se pueden emplear para el tratamiento de: (1) únicamente lodos activados o de filtros percoladores; (2) mezclas de lodos activados o de filtros percoladores con lodos primarios, o (3) lodo biológico en exceso de plantas de tratamiento de lodos activados sin sedimentación primaria. Actualmente, suelen emplearse dos variantes del proceso de digestión aerobia: el sistema convencional y el sistema con oxígeno puro, aunque también se ha empleado la digestión aerobia termófila (Aguamarket, 2017), ver figura 21. 
+        p Es un método alternativo de tratar los lodos orgánicos producidos en el curso de las diversas operaciones de tratamiento. Los digestores aeróbicos se pueden emplear para el tratamiento de: (1) únicamente lodos activados o de filtros percoladores; (2) mezclas de lodos activados o de filtros percoladores con lodos primarios, o (3) lodo biológico en exceso de plantas de tratamiento de lodos activados sin sedimentación primaria. Actualmente, suelen emplearse dos variantes del proceso de digestión aerobia: el sistema convencional y el sistema con oxígeno puro, aunque también se ha empleado la digestión aerobia termófila (Aguamarket, 2017), ver figura 20. 
       .col-lg-5.col-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 21 
+          h5 Figura 20
           br
           span.fst-italic Tratamiento aerobio
         img(src='@/assets/curso/temas/tema2/34.png', alt='')
@@ -634,10 +638,10 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-5
           h4 Digestión aeróbica convencional
-          p En esta el lodo se airea durante un largo período de tiempo en un estanque abierto, sin calefacción, empleando difusores convencionales o aireadores superficiales. El proceso se puede llevar a cabo de manera continua o discontinua. En plantas de pequeño tamaño se emplea el sistema discontinuo, en el que el lodo se airea y se mezcla completamente durante un largo período de tiempo, dejándose sedimentar a continuación en el interior del mismo estanque (Aguamarket, 2017), ver figura 22.
+          p En esta el lodo se airea durante un largo período de tiempo en un estanque abierto, sin calefacción, empleando difusores convencionales o aireadores superficiales. El proceso se puede llevar a cabo de manera continua o discontinua. En plantas de pequeño tamaño se emplea el sistema discontinuo, en el que el lodo se airea y se mezcla completamente durante un largo período de tiempo, dejándose sedimentar a continuación en el interior del mismo estanque (Aguamarket, 2017), ver figura 21.
           .d-lg-none.d-block.mb-4
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 22
+              h5 Figura 21
               br
               span.fst-italic  Tanque aerobio TAE  
             img(src='@/assets/curso/temas/tema2/35.jpg', alt='')
@@ -746,7 +750,7 @@
         .col-lg-6(data-aos="fade-left")
           .d-lg-block.d-none
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 29
+              h5 Figura 30
               br
               span.fst-italic  Esquema del sistema de biodiscos 
             img(src='@/assets/curso/temas/tema2/47.jpg', alt='')
@@ -754,14 +758,14 @@
       h4 Ruidos y otras variables 
       p.mb-5(data-aos='fade-right') El nivel de ruidos es muy bajo, factor que es muy importante tanto ambientalmente como por higiene y salud del personal. Las dimensiones de los depósitos de oxidación son menores que los utilizados por otros procesos. El rendimiento del proceso es más estable en épocas frías, debido al hecho de permanecer cubiertos los tanques. El consumo energético es muy reducido y a igualdad de resultados, comparándolo con un sistema de fangos activos, el consumo resulta ser la tercera parte Hidrometalica (s.f.). 
       h4 El funcionamiento de los biodiscos
-      p Se divide en cuatro etapas, ver figura 30. 
+      p Se divide en cuatro etapas, ver figura 31. 
       .row.justify-content-center.mb-5
         .col-lg-10
           .rounded-2.p-5(style="background-color: #dee9f0 ")
             .row.justify-content-center.mb-5
               .col-lg-8
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 30
+                  h5 Figura 31
                   br
                   span.fst-italic Biodiscos
                 img(src='@/assets/curso/temas/tema2/48.jpg', alt='')
@@ -770,18 +774,18 @@
       p.mb-0(data-aos='fade-right') El agua bruta de llegada entra a este tanque a través de la tubuladura de entrada, donde se produce una primera sedimentación de materia sólida. Los sólidos sedimentados se extraerán periódicamente por parte del usuario en la primera etapa donde se realiza la primera toma de contacto entre el agua bruta de entrada y los discos. La superficie de los discos se coloniza de forma natural, formando un recubrimiento visible. En la segunda etapa de contacto, gracias a la concepción del sistema de vertedero entre ambas etapas, se consigue un nivel de agua con menos fluctuaciones, favoreciendo el proceso y su salida hacia el “tanque de sedimentación secundaria”. Con el proceso de dos etapas se consigue aumentar el crecimiento de la biomasa de forma equilibrada y constante. En el tanque de sedimentación secundaria se produce la sedimentación de la materia sólida restante del proceso, a la cual se le realizan dos operaciones, la recirculación y extracción de sedimentos (Hidrometálica, s.f.). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Reactores biológicos secuenciales (SBR)
-    p.mb-5(data-aos='fade-right') Son reactores discontinuos en los que el agua residual se mezcla con un lodo biológico en un medio aireado. Se trata de un proceso que se combina en un mismo tanque: aeración/reacción y clarificación. La tecnología de los reactores biológicos secuenciales es una variante optimizada de la tecnología convencional de lodos activados. Se basa en el uso de un solo reactor que opera en forma discontinua secuencial. El sistema de los reactores biológicos secuenciales SBR consta de al menos cuatro procesos cíclicos: llenado, aireación, anoxia, decantación y vaciado, tanto de efluente como de los lodos. Esta tecnología es capaz de tolerar variaciones de carga y caudal y genera como producto lodos estabilizados, siendo en ocasiones, la tecnología más apropiada para la industria, ver figura 31 y 32. 
+    p.mb-5(data-aos='fade-right') Son reactores discontinuos en los que el agua residual se mezcla con un lodo biológico en un medio aireado. Se trata de un proceso que se combina en un mismo tanque: aeración/reacción y clarificación. La tecnología de los reactores biológicos secuenciales es una variante optimizada de la tecnología convencional de lodos activados. Se basa en el uso de un solo reactor que opera en forma discontinua secuencial. El sistema de los reactores biológicos secuenciales SBR consta de al menos cuatro procesos cíclicos: llenado, aireación, anoxia, decantación y vaciado, tanto de efluente como de los lodos. Esta tecnología es capaz de tolerar variaciones de carga y caudal y genera como producto lodos estabilizados, siendo en ocasiones, la tecnología más apropiada para la industria, ver figura 32 y 33. 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 31
+          h5 Figura 32
           br
           span.fst-italic Instalación con tecnología SBR 
         img(src='@/assets/curso/temas/tema2/49.png', alt='')
         figcaption Nota. Tomado de Aguas industriales (2015). Instalación con tecnología SBR.
       .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 32
+          h5 Figura 33
           br
           span.fst-italic Planta de tratamiento de aguas residuales reactor biológico secuencial (SBR)  
         img(src='@/assets/curso/temas/tema2/50.png', alt='')
@@ -806,22 +810,22 @@
           p #[b Vaciado:] extracción del agua clarificada del reactor. El exceso de lodo activado residual es removido; este proceso toma tiempo, puede tardar entre un 5% y un 30% del tiempo total (Domos agua, 2019). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Filtros verdes y humedales artificiales
-    p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 33.
+    p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 34.
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 33
+            h5 Figura 34
             br
             span.fst-italic Filtros verdes en depuración de aguas residuales. 
         img(src='@/assets/curso/temas/tema2/59.png', alt='')
         figcaption Nota. Tomado de TECPA (2018). https://www.tecpa.es/filtro-verde-depuracion-aguas-residuales
       .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")
         h4 Filtros verdes
-        p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 34.
+        p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 35.
         .row.justify-content-center.mb-5
           .col-lg-10 
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 34 
+              h5 Figura 35
               br
               span.fst-italic Tratamiento de aguas residuales mediante humedales artificiales 
             img(src='@/assets/curso/temas/tema2/57.png', alt='')
@@ -833,19 +837,19 @@
           p De acuerdo con la Universidad Veracruzana los mecanismos de depuración de los filtros verdes son, en primera instancia, los procesos físicos: granulometría y textura. Luego, procesos químicos: pH, capacidad de intercambio iónico, condiciones de aireación y encharcamiento. En tercer lugar, procesos biológicos: raíces, microorganismos (Universidad Veracruzana, s.f.), ver figura 35.
         .col-lg-7
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 35
+            h5 Figura 36
             br
             span.fst-italic Bioingeniería
           img(src='@/assets/curso/temas/tema2/58.png', alt='')
-          figcaption Nota. Tomado de la Universidad Veracruzana (s.f.). https://sites.google.com/site/bioingenieriauv15/unidad-1-sistemas-de-depuracion-de-agua/1-3-filtros-verdes  
+          figcaption https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYHJik2RkWb3hB5ts5mpu-G6UMEJAdXAETR1C7J674yIcA2qxB  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0  Reactor biológico de membrana (MBR)
     .row.justify-content-center.mb-5
       .col-lg-5.mb-lg-0.mb-3(data-aos="fade-right")
-        p #[b (Reactor biológico + ultrafiltración)] se incluyen en las denominadas tecnologías de membrana, las cuales han experimentado un gran desarrollo en la última década. La aplicación de estas tecnologías a los MBR permite la separación del fango y el líquido mediante membranas, obteniendo ventajas importantes frente a la separación en los tradicionales decantadores secundarios. El aumento de la demanda de agua ha impulsado la implantación de estos sistemas a escala real, especialmente en aquellos casos en que se plantea la posibilidad de reutilización de agua (Universidad de Alcalá, 2007), ver figura 36. 
+        p #[b (Reactor biológico + ultrafiltración)] se incluyen en las denominadas tecnologías de membrana, las cuales han experimentado un gran desarrollo en la última década. La aplicación de estas tecnologías a los MBR permite la separación del fango y el líquido mediante membranas, obteniendo ventajas importantes frente a la separación en los tradicionales decantadores secundarios. El aumento de la demanda de agua ha impulsado la implantación de estos sistemas a escala real, especialmente en aquellos casos en que se plantea la posibilidad de reutilización de agua (Universidad de Alcalá, 2007), ver figura 37. 
       .col-lg-7.col-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 36
+          h5 Figura 37
           br
           span.fst-italic  Biorreactor de membrana
         img(src='@/assets/curso/temas/tema2/61.png', alt='')
@@ -875,33 +879,33 @@
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         h4 Configuraciones básicas
-        p Membranas o sistemas sumergidos: las membranas se sitúan dentro del propio reactor biológico, eliminando las necesidades de bombeo y aprovechando la agitación mecánica de la aireación (Universidad de Alcalá, 2007), ver figura 37.
+        p Membranas o sistemas sumergidos: las membranas se sitúan dentro del propio reactor biológico, eliminando las necesidades de bombeo y aprovechando la agitación mecánica de la aireación (Universidad de Alcalá, 2007), ver figura 38.
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5  Figura 37
+          h5  Figura 38
           br
           span.fst-italic Membranas sumergidas
         img(src='@/assets/curso/temas/tema2/64.png', alt='')
         figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
       .col-lg-6(data-aos="fade-right")
         h4 Membranas externas o sistema de bucle externo 
-        p El contenido del reactor biológico se bombea al módulo de membranas. Las ventajas de este modelo residen en que el propio módulo de membranas sirve de contenedor de limpieza para las mismas y se evita su manipulación (Universidad de Alcalá, 2007), ver figura 38. 
+        p El contenido del reactor biológico se bombea al módulo de membranas. Las ventajas de este modelo residen en que el propio módulo de membranas sirve de contenedor de limpieza para las mismas y se evita su manipulación (Universidad de Alcalá, 2007), ver figura 39. 
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 38
+          h5 Figura 39
           br
           span.fst-italic Membranas externas 
         img(src='@/assets/curso/temas/tema2/65.png', alt='')
         figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Electrocoagulación
-    p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 39. 
+    p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 40. 
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 39 
+            h5 Figura 40 
             br 
             span.fst-italic Electrocoagulación
         img(src='@/assets/curso/temas/tema2/67.png', alt='')
-        figcaption.mb-4 Nota. Tomado de Hidritec (s.f.). http://www.hidritec.com/hidritec/electrocoagulacion  
+        figcaption.mb-4 Nota. Tomado de Hidritec (s.f.). https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQumrPqtcLRY_AE6MBByyMuT-oDISLdsCV43JswIXr2FLM3ewSN  
     .row.justify-content-center.mb-5
       .col-lg-12(data-aos="fade-right")
         .tarjeta.p-4(style="background-color: #fdf8e4 ")
@@ -912,10 +916,10 @@
           .row.justify-content-center.mb-5
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 40
+                h5 Figura 41
                 br
                 span.fst-italic Electrocoagulación
-              img(src='@/assets/curso/temas/tema2/66.png', alt='')
+              img(src='@/assets/curso/temas/tema2/66.svg', alt='')
               figcaption Nota. Tomado de Hidritec (s.f). Electrocoagulación (Anexos / Figura 46) http://www.hidritec.com/hidritec/electrocoagulacion 
     h4 Eliminación de sólidos, aceites y grasas 
     p.mb-5 El sistema se suministra en una planta premontada con la parrilla de electrodos en forma de placas y dimensionada para el caso concreto, incluyendo el cuadro de control y potencia del equipo. De forma habitual, se suministra con un sistema de decantación lamelar o separador por flotación DAF para lograr un mayor rendimiento en la eliminación de los sólidos, aceites y grasas desestabilizados.  

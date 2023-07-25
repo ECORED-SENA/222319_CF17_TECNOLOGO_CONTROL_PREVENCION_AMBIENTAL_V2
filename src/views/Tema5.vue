@@ -118,7 +118,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto(style="color: #12263F")
-                    p #[b Anexo.] Guia para elaborar planes de emergencia y contingencia.
+                    p #[b Anexo.] Guía para elaborar planes de emergencia y contingencia.
 
 
 

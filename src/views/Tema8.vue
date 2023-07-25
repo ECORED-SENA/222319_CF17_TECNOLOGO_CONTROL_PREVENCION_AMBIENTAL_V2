@@ -51,7 +51,7 @@
         .p-5.px-3.text-center.h-100(style="background-color: #dee9f0; border-bottom: 5px solid #badc61 ") 
           p.fw-bold.text-center Acondicionamiento - desinfección
 
-          p.text-start  • Fijación quimica
+          p.text-start  • Fijación química
             br
             |• Elutriación
             br
@@ -68,7 +68,7 @@
 
           p.text-start  • Filtro prensa
             br
-            |• Filtro de vacio
+            |• Filtro de vacío
             br
             |• Filtro de bandas
             br
@@ -85,7 +85,7 @@
             br
             |• Incinerador de lecho fluidizado
             br
-            |• Secado instantaneo
+            |• Secado instantáneo
             br
             |• Pirólisis
 

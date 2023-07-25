@@ -38,15 +38,15 @@
             p Donde:
               br
               br
-              |#[b Cc=] Carga Contaminante, en kilogramos por día (Kg/dia)
+              |#[b Cc=] Carga Contaminante, en kilogramos por día (Kg/dia).
               br
-              |#[b Q=] Caudal promedio, en litros por segundo (l/s)
+              |#[b Q=] Caudal promedio, en litros por segundo (l/s).
               br
-              |#[b C=] Concentración de la sustancia contaminante, en miligramos por litro (mg/l)
+              |#[b C=] Concentración de la sustancia contaminante, en miligramos por litro (mg/l).
               br
-              |#[b 0.0864 =] Factor de conversión de unidades
+              |#[b 0.0864 =] Factor de conversión de unidades.
               br
-              |#[b t=] Tiempo de vertimiento del usuario, en horas por día (h)
+              |#[b t=] Tiempo de vertimiento del usuario, en horas por día (h).
         p Ministerio de Ambiente, Vivienda y Desarrollo Territorial Decreto 3100 (2003) Art. 4  
         p En el cálculo de la carga contaminante de cada sustancia, objeto del cobro de la tasa retributiva por vertimientos, se deberá descontar a la carga presente en el efluente las mediciones de la carga existente en el punto de captación del recurso siempre y cuando se capte en el mismo cuerpo de agua. 
       .col-lg-6(data-aos="fade-left")
@@ -54,7 +54,7 @@
     Separador 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.3 Eficiencia del PTAR
-    p.mb-5(data-aos='fade-right') Para realizar los cálculos de la eficiencia de la PTAR se puede identificar teniendo en cuenta el caudal de entrada en los equipos, las concentraciones de los contaminantes en el equipo y la carga contaminante del mismo contaminante en el equipo para calcular el % de remoción o eficiencia del equipo sea del tratamiento primario, secundario y terciario y, al calcular cada equipo del sistema y sus % de eficiencia en cada contaminante removido se puede hallar el total de la PTAR.  ''''''''''
+    p.mb-5(data-aos='fade-right') Para realizar los cálculos de la eficiencia de la PTAR se puede identificar teniendo en cuenta el caudal de entrada en los equipos, las concentraciones de los contaminantes en el equipo y la carga contaminante del mismo contaminante en el equipo para calcular el % de remoción o eficiencia del equipo sea del tratamiento primario, secundario y terciario y, al calcular cada equipo del sistema y sus % de eficiencia en cada contaminante removido se puede hallar el total de la PTAR.
     .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-primario.p-3.mb-5

@@ -274,12 +274,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Acuatecnia S.A.S. (2018). Tratamiento de aguas residuales. ACUATECNICA. ',
+        'Acuatecnia S.A.S. (2018). Tratamiento primario de aguas residuales. ACUATECNICA. ',
       link: 'https://acuatecnica.com/tratamiento-primario-aguas-residuales/',
     },
     {
       referencia:
-        'Aguas industriales. (2015). Instalación con tecnología SBR. AGUASINDUSTRIALES ',
+        'Aguas industriales. (2015). Ventajas y desventajas de los reactores biológicos secuenciales (SBR). AGUASINDUSTRIALES ',
       link:
         'http://aguasindustriales.es/ventajas-y-desventajas-de-los-reactores-biologicos-secuenciales-sbr/',
     },
@@ -329,7 +329,8 @@ export default {
     {
       referencia:
         'Jardín Botánico de Bogotá y Universidad Libre (2013). Guía metodológica para la formulación de proyectos ambientales escolares. UNILIBRE. ',
-      link: 'http://www.unilibre.edu.co/praeul/images/stories/pdfs/2013/h9.pdf',
+      link:
+        'https://repository.unilibre.edu.co/bitstream/handle/10901/19386/Gu%c3%ada%20Metodol%c3%b3gica%20con%20portada.pdf?sequence=1&isAllowed=y ',
     },
     {
       referencia: 'Maldonado, V. (s.f.). Sedimentación.',
