@@ -189,7 +189,6 @@
             br
             span.fst-italic Rejas de desbaste 
           img(src='@/assets/curso/temas/tema2/3.png', alt='')
-          figcaption Nota. Tomado de Deagua (2020). http://blogdeagua.es/reja-de-desbaste/  
       .tarjeta.p-5.mb-4(style="background-color: #dee9f0 ")   
         h4 Tipos de rejas de desbaste según separación entre barrotes 
         p.mb-0 Las rejas de desbaste pueden clasificarse según el espacio libre que hay entre los barrotes. Esta distancia libre marcará qué tipo de sólidos quedarán atrapados y qué tipo podrán pasar al sistema de tratamiento de agua (Deagua, 2020). 
@@ -203,8 +202,7 @@
               br
               span.fst-italic Rejas de desbaste
             figure
-              img(src='@/assets/curso/temas/tema2/4.jpg', alt='')
-              figcaption Nota. Tomado de Deagua (2020). http://blogdeagua.es/reja-de-desbaste/
+              img(src='@/assets/curso/temas/tema2/4.png', alt='')
         .col-lg-6.mb-lg-0.mb-3
           .tarjeta.p-5.mb-4(style="background-color: #dee9f0 ").h-100
             h4 Rejas de desbaste de finos
@@ -214,8 +212,7 @@
               br
               span.fst-italic Rejas de desbaste finos
             figure
-              img(src='@/assets/curso/temas/tema2/5.jpg', alt='')
-              figcaption Nota. Tomado de Deagua (2020). http://blogdeagua.es/reja-de-desbaste/
+              img(src='@/assets/curso/temas/tema2/5.png', alt='')
       .row.justify-content-center
         .col-lg-6.mb-lg-0.mb-3
           .tarjeta.p-5.mb-4(style="background-color: #dee9f0 ").h-100
