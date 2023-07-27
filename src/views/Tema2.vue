@@ -335,7 +335,7 @@
           br
           span.fst-italic Sedimentador circular
         img(src='@/assets/curso/temas/tema2/14.jpg', alt='')
-        figcaption Nota. Tomado de Educarex (2007).  http://contenidos.educarex.es/mci/2007/11/activid/edar/edar.html 
+        figcaption Nota. Tomado de Educarex (2007).  https://iesmunoztorrero.educarex.es/web/aguaserena/activid/edar/4.decantacion-pri.gif  
       .col-lg-4(data-aos="fade-left")
         .tarjeta.p-3(style="background-color: #fdf8e4")
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -400,7 +400,7 @@
           br
           span.fst-italic  Sistema de flotación
         img(src='@/assets/curso/temas/tema2/21.png', alt='')
-        figcaption Nota. Tomado de Aguas Sigma (2016). https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJB-
+        figcaption Nota. Tomado de Aguas Sigma (2016). https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJB-E5CFFX1Cehh4NVp4a-E9Rer2hlmr0MSMTMPRjVTKW2M3U9 
     .tarjeta.bg-slyde.p-5.mb-5
       SlyderA(tipo='b')
         .row
@@ -611,6 +611,10 @@
           .col-md-8.mb-4.mb-md-0
             p De igual forma, los filtros también se clasifican por medio filtrante, es decir, el material de relleno en cantidad, capas y características según las necesidades del agua a tratar, ver figura 19.
           .col-md-4
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 19
+              br
+              span.fst-italic Velocidad de filtración
             img(src='@/assets/curso/temas/tema2/32.png', alt='')
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -651,7 +655,7 @@
         .col-lg-7.col-8
           .d-lg-block.d-none
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 22
+              h5 Figura 21
               br
               span.fst-italic  Tanque aerobio TAE  
             img(src='@/assets/curso/temas/tema2/35.jpg', alt='')
@@ -660,10 +664,10 @@
       h4.mb-0 Digestor anaerobio
     .row.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right").mb-lg-0.mb-3
-        p En este proceso se produce la descomposición de la materia orgánica e inorgánica en ausencia de oxígeno molecular. Sus principales aplicaciones han sido y siguen siendo hoy en día, la estabilización de lodos concentrados producidos en el tratamiento del agua residual y de determinados residuos industriales; sin embargo, recientemente se ha demostrado que los residuos orgánicos diluidos también se pueden tratar anaeróbicamente. En el proceso de digestión anaerobia, la materia orgánica contenida en la mezcla de lodos primarios y biológicos se convierte biológicamente, bajo condiciones anaerobias, en metano (CH4) y dióxido de carbono (C02) (Aguamarket, 2017), ver figura 23 
+        p En este proceso se produce la descomposición de la materia orgánica e inorgánica en ausencia de oxígeno molecular. Sus principales aplicaciones han sido y siguen siendo hoy en día, la estabilización de lodos concentrados producidos en el tratamiento del agua residual y de determinados residuos industriales; sin embargo, recientemente se ha demostrado que los residuos orgánicos diluidos también se pueden tratar anaeróbicamente. En el proceso de digestión anaerobia, la materia orgánica contenida en la mezcla de lodos primarios y biológicos se convierte biológicamente, bajo condiciones anaerobias, en metano (CH4) y dióxido de carbono (C02) (Aguamarket, 2017), ver figura 22
       .col-lg-6.col-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 23
+          h5 Figura 22
           br
           span.fst-italic  Digestión anaerobia 
         img(src='@/assets/curso/temas/tema2/36.png', alt='')
@@ -672,10 +676,10 @@
       .py-4.py-md-5(titulo="¿Dónde sucede el proceso? " :icono="require('@/assets/curso/temas/tema2/37.svg')")
         .row
           .col-lg-6.mb-4.mb-md-0
-            p El proceso se lleva a cabo en un reactor completamente cerrado. Los lodos se introducen en el reactor de forma continua o intermitente, y permanecen en su interior durante períodos de tiempo variables. El lodo estabilizado, que se extrae del proceso continuo o intermitentemente, tiene un bajo contenido en materia orgánica y patógenos, y no es putrescible. Los dos tipos de digestores anaeróbicos más empleados son los de alta y baja carga. En el proceso de digestión de baja carga no se suele calentar, ni mezclar el contenido del digestor, y los tiempos de detención oscilan entre 30 y 60 días. En los procesos de digestión de alta carga el contenido del digestor se calienta y mezcla completamente (Aguamarket, 2017), ver figura 24.  
+            p El proceso se lleva a cabo en un reactor completamente cerrado. Los lodos se introducen en el reactor de forma continua o intermitente, y permanecen en su interior durante períodos de tiempo variables. El lodo estabilizado, que se extrae del proceso continuo o intermitentemente, tiene un bajo contenido en materia orgánica y patógenos, y no es putrescible. Los dos tipos de digestores anaeróbicos más empleados son los de alta y baja carga. En el proceso de digestión de baja carga no se suele calentar, ni mezclar el contenido del digestor, y los tiempos de detención oscilan entre 30 y 60 días. En los procesos de digestión de alta carga el contenido del digestor se calienta y mezcla completamente (Aguamarket, 2017), ver figura 23.  
           .col-lg-6
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 24
+              h5 Figura 23
               br
               span.fst-italic  Digestor anaerobio para lodos
             img(src='@/assets/curso/temas/tema2/39.png', alt='')
@@ -694,39 +698,39 @@
             img(src='@/assets/curso/temas/tema2/41.png', alt='')
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Lechos bacterianos o filtros percoladores
-    p.mb-5(data-aos='fade-right') Se trata de un sistema de depuración biológico aerobio cuyo funcionamiento se basa en hacer circular a través de un medio poroso, aire y agua residual. Están configurados en forma de cultivo fijo no sumergido y compuestos por un lecho, normalmente de gran diámetro, que puede estar formado por materiales naturales –cantos rodados, coque metalúrgico, escoria o antracita- o plásticos, y en cuya superficie se aplican de forma uniforme los líquidos residuales por medio de pulverizadores, y en forma de lluvia (SMA, 2015), ver figuras 25 y 26.
+    p.mb-5(data-aos='fade-right') Se trata de un sistema de depuración biológico aerobio cuyo funcionamiento se basa en hacer circular a través de un medio poroso, aire y agua residual. Están configurados en forma de cultivo fijo no sumergido y compuestos por un lecho, normalmente de gran diámetro, que puede estar formado por materiales naturales –cantos rodados, coque metalúrgico, escoria o antracita- o plásticos, y en cuya superficie se aplican de forma uniforme los líquidos residuales por medio de pulverizadores, y en forma de lluvia (SMA, 2015), ver figuras 24 y 25.
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 25
+          h5 Figura 24
           br
           span.fst-italic Filtro percolador 
         img(src='@/assets/curso/temas/tema2/42.png', alt='')
         figcaption Nota. Tomado de Mata (s.f.).  https://lorenzomata95.wixsite.com/misitio/
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 26
+          h5 Figura 25
           br
           span.fst-italic  Filtro percolador
         img(src='@/assets/curso/temas/tema2/43.png', alt='')
         figcaption Nota. Tomado de filtropercolador (2019) https://filtropercolador.blogspot.com/2019/03/1.html 
-    p.mb-5(data-aos='fade-right') En la parte inferior del lecho se sitúan el sistema de drenaje para la salida del efluente del proceso y el sistema de entrada de aire para la ventilación. Esta puede llevarse a cabo de forma natural, lo que exige para un correcto funcionamiento diferencias de temperatura superiores a 2ºC entre el aire -agua o forzada–, suele emplearse solo cuando el tamaño del filtro es demasiado grande y no se puede garantizar la ventilación natural. Cabe destacar que el lecho debe permanecer aireado y con un caudal suficiente de percolación, que permita arrastrar las fracciones de biopelícula erosionadas o desprendidas, y sin saturación de agua. De esta forma, se puede prevenir, en caso de cargas altas, la formación de charcos en su superficie (SMA, 2015), ver figura 27. 
+    p.mb-5(data-aos='fade-right') En la parte inferior del lecho se sitúan el sistema de drenaje para la salida del efluente del proceso y el sistema de entrada de aire para la ventilación. Esta puede llevarse a cabo de forma natural, lo que exige para un correcto funcionamiento diferencias de temperatura superiores a 2ºC entre el aire -agua o forzada–, suele emplearse solo cuando el tamaño del filtro es demasiado grande y no se puede garantizar la ventilación natural. Cabe destacar que el lecho debe permanecer aireado y con un caudal suficiente de percolación, que permita arrastrar las fracciones de biopelícula erosionadas o desprendidas, y sin saturación de agua. De esta forma, se puede prevenir, en caso de cargas altas, la formación de charcos en su superficie (SMA, 2015), ver figura 26. 
     .row.justify-content-center.mb-5
       .col-lg-10
         .rounded-2.p-5(style="background-color: #dee9f0 ")
           .row.justify-content-center.mb-5
             .col-lg-8
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 27
+                h5 Figura 26
                 br
                 span.fst-italic Partes de un filtro percolador
               img(src='@/assets/curso/temas/tema2/44.jpg', alt='')
               figcaption Nota. Tomado de filtropercolador (2019). https://filtropercolador.blogspot.com/2019/03/1.html  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Contactores biológicos rotativos: biodiscos y biocilindros
-    p.mb-5(data-aos='fade-right') Los contactores biológicos rotativos están basados en los procesos biológicos aerobios. Estos requieren un contacto íntimo entre el agua residual, la biomasa activa y el oxígeno. Consisten en una serie de placas o discos colocados en un eje horizontal que giran lentamente dentro del tanque que contiene el agua residual, con un 49% de la superficie sumergida. Sobre la superficie de los discos se fija la biomasa que se encuentra alternativamente en contacto con el agua residual y el aire. Esto posibilita la ingestión de la materia orgánica por parte de los microorganismos y su posterior degradación en presencia del oxígeno del aire (Cyclusid, 2020), ver figura 28.  
+    p.mb-5(data-aos='fade-right') Los contactores biológicos rotativos están basados en los procesos biológicos aerobios. Estos requieren un contacto íntimo entre el agua residual, la biomasa activa y el oxígeno. Consisten en una serie de placas o discos colocados en un eje horizontal que giran lentamente dentro del tanque que contiene el agua residual, con un 49% de la superficie sumergida. Sobre la superficie de los discos se fija la biomasa que se encuentra alternativamente en contacto con el agua residual y el aire. Esto posibilita la ingestión de la materia orgánica por parte de los microorganismos y su posterior degradación en presencia del oxígeno del aire (Cyclusid, 2020), ver figura 27.  
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 28
+      h5 Figura 27
       br 
       span.fst-italic Unidad de tratamiento por biodiscos
     .row.justify-content-center.mb-4
@@ -737,10 +741,10 @@
       .row.justify-content-center.mb-5
         .col-lg-6.mb-lg-0.mb-3
           h4 Los biocilindros
-          p Son una variante de los biodiscos, su principal diferencia es la sustitución de los discos por biocilindros, están formados por una malla metálica, cuyo interior se rellena de piezas de plástico que sirven de soporte a la biomasa. En estos sistemas se produce un exceso de biomasa que se desprende del contactor, esta se mantiene en suspensión en el tanque gracias al movimiento del material soporte. Para regular la cantidad de microorganismos presentes en el sistema se dispone de un clarificador o decantador secundario, en él se produce la sedimentación del exceso de biomasa (Cyclusid, 2020), ver figura 29. 
+          p Son una variante de los biodiscos, su principal diferencia es la sustitución de los discos por biocilindros, están formados por una malla metálica, cuyo interior se rellena de piezas de plástico que sirven de soporte a la biomasa. En estos sistemas se produce un exceso de biomasa que se desprende del contactor, esta se mantiene en suspensión en el tanque gracias al movimiento del material soporte. Para regular la cantidad de microorganismos presentes en el sistema se dispone de un clarificador o decantador secundario, en él se produce la sedimentación del exceso de biomasa (Cyclusid, 2020), ver figura 28. 
           .d-lg-none.d-block.mb-4
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 29
+              h5 Figura 28
               br
               span.fst-italic  Esquema del sistema de biodiscos 
             img(src='@/assets/curso/temas/tema2/47.jpg', alt='')
@@ -750,7 +754,7 @@
         .col-lg-6(data-aos="fade-left")
           .d-lg-block.d-none
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 30
+              h5 Figura 29
               br
               span.fst-italic  Esquema del sistema de biodiscos 
             img(src='@/assets/curso/temas/tema2/47.jpg', alt='')
@@ -758,14 +762,14 @@
       h4 Ruidos y otras variables 
       p.mb-5(data-aos='fade-right') El nivel de ruidos es muy bajo, factor que es muy importante tanto ambientalmente como por higiene y salud del personal. Las dimensiones de los depósitos de oxidación son menores que los utilizados por otros procesos. El rendimiento del proceso es más estable en épocas frías, debido al hecho de permanecer cubiertos los tanques. El consumo energético es muy reducido y a igualdad de resultados, comparándolo con un sistema de fangos activos, el consumo resulta ser la tercera parte Hidrometalica (s.f.). 
       h4 El funcionamiento de los biodiscos
-      p Se divide en cuatro etapas, ver figura 31. 
+      p Se divide en cuatro etapas, ver figura 30. 
       .row.justify-content-center.mb-5
         .col-lg-10
           .rounded-2.p-5(style="background-color: #dee9f0 ")
             .row.justify-content-center.mb-5
               .col-lg-8
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 31
+                  h5 Figura 30
                   br
                   span.fst-italic Biodiscos
                 img(src='@/assets/curso/temas/tema2/48.jpg', alt='')
@@ -774,18 +778,18 @@
       p.mb-0(data-aos='fade-right') El agua bruta de llegada entra a este tanque a través de la tubuladura de entrada, donde se produce una primera sedimentación de materia sólida. Los sólidos sedimentados se extraerán periódicamente por parte del usuario en la primera etapa donde se realiza la primera toma de contacto entre el agua bruta de entrada y los discos. La superficie de los discos se coloniza de forma natural, formando un recubrimiento visible. En la segunda etapa de contacto, gracias a la concepción del sistema de vertedero entre ambas etapas, se consigue un nivel de agua con menos fluctuaciones, favoreciendo el proceso y su salida hacia el “tanque de sedimentación secundaria”. Con el proceso de dos etapas se consigue aumentar el crecimiento de la biomasa de forma equilibrada y constante. En el tanque de sedimentación secundaria se produce la sedimentación de la materia sólida restante del proceso, a la cual se le realizan dos operaciones, la recirculación y extracción de sedimentos (Hidrometálica, s.f.). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Reactores biológicos secuenciales (SBR)
-    p.mb-5(data-aos='fade-right') Son reactores discontinuos en los que el agua residual se mezcla con un lodo biológico en un medio aireado. Se trata de un proceso que se combina en un mismo tanque: aeración/reacción y clarificación. La tecnología de los reactores biológicos secuenciales es una variante optimizada de la tecnología convencional de lodos activados. Se basa en el uso de un solo reactor que opera en forma discontinua secuencial. El sistema de los reactores biológicos secuenciales SBR consta de al menos cuatro procesos cíclicos: llenado, aireación, anoxia, decantación y vaciado, tanto de efluente como de los lodos. Esta tecnología es capaz de tolerar variaciones de carga y caudal y genera como producto lodos estabilizados, siendo en ocasiones, la tecnología más apropiada para la industria, ver figura 32 y 33. 
+    p.mb-5(data-aos='fade-right') Son reactores discontinuos en los que el agua residual se mezcla con un lodo biológico en un medio aireado. Se trata de un proceso que se combina en un mismo tanque: aeración/reacción y clarificación. La tecnología de los reactores biológicos secuenciales es una variante optimizada de la tecnología convencional de lodos activados. Se basa en el uso de un solo reactor que opera en forma discontinua secuencial. El sistema de los reactores biológicos secuenciales SBR consta de al menos cuatro procesos cíclicos: llenado, aireación, anoxia, decantación y vaciado, tanto de efluente como de los lodos. Esta tecnología es capaz de tolerar variaciones de carga y caudal y genera como producto lodos estabilizados, siendo en ocasiones, la tecnología más apropiada para la industria, ver figura 31 y 32. 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 32
+          h5 Figura 31
           br
           span.fst-italic Instalación con tecnología SBR 
         img(src='@/assets/curso/temas/tema2/49.png', alt='')
         figcaption Nota. Tomado de Aguas industriales (2015). Instalación con tecnología SBR.
       .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 33
+          h5 Figura 32
           br
           span.fst-italic Planta de tratamiento de aguas residuales reactor biológico secuencial (SBR)  
         img(src='@/assets/curso/temas/tema2/50.png', alt='')
@@ -810,22 +814,22 @@
           p #[b Vaciado:] extracción del agua clarificada del reactor. El exceso de lodo activado residual es removido; este proceso toma tiempo, puede tardar entre un 5% y un 30% del tiempo total (Domos agua, 2019). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Filtros verdes y humedales artificiales
-    p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 34.
+    p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 33.
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 34
+            h5 Figura 33
             br
             span.fst-italic Filtros verdes en depuración de aguas residuales. 
         img(src='@/assets/curso/temas/tema2/59.png', alt='')
         figcaption Nota. Tomado de TECPA (2018). https://www.tecpa.es/filtro-verde-depuracion-aguas-residuales
       .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")
         h4 Filtros verdes
-        p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 35.
+        p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 34.
         .row.justify-content-center.mb-5
           .col-lg-10 
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 35
+              h5 Figura 34
               br
               span.fst-italic Tratamiento de aguas residuales mediante humedales artificiales 
             img(src='@/assets/curso/temas/tema2/57.png', alt='')
@@ -837,7 +841,7 @@
           p De acuerdo con la Universidad Veracruzana los mecanismos de depuración de los filtros verdes son, en primera instancia, los procesos físicos: granulometría y textura. Luego, procesos químicos: pH, capacidad de intercambio iónico, condiciones de aireación y encharcamiento. En tercer lugar, procesos biológicos: raíces, microorganismos (Universidad Veracruzana, s.f.), ver figura 35.
         .col-lg-7
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 36
+            h5 Figura 35
             br
             span.fst-italic Bioingeniería
           img(src='@/assets/curso/temas/tema2/58.png', alt='')
@@ -846,10 +850,10 @@
       h4.mb-0  Reactor biológico de membrana (MBR)
     .row.justify-content-center.mb-5
       .col-lg-5.mb-lg-0.mb-3(data-aos="fade-right")
-        p #[b (Reactor biológico + ultrafiltración)] se incluyen en las denominadas tecnologías de membrana, las cuales han experimentado un gran desarrollo en la última década. La aplicación de estas tecnologías a los MBR permite la separación del fango y el líquido mediante membranas, obteniendo ventajas importantes frente a la separación en los tradicionales decantadores secundarios. El aumento de la demanda de agua ha impulsado la implantación de estos sistemas a escala real, especialmente en aquellos casos en que se plantea la posibilidad de reutilización de agua (Universidad de Alcalá, 2007), ver figura 37. 
+        p #[b (Reactor biológico + ultrafiltración)] se incluyen en las denominadas tecnologías de membrana, las cuales han experimentado un gran desarrollo en la última década. La aplicación de estas tecnologías a los MBR permite la separación del fango y el líquido mediante membranas, obteniendo ventajas importantes frente a la separación en los tradicionales decantadores secundarios. El aumento de la demanda de agua ha impulsado la implantación de estos sistemas a escala real, especialmente en aquellos casos en que se plantea la posibilidad de reutilización de agua (Universidad de Alcalá, 2007), ver figura 36. 
       .col-lg-7.col-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 37
+          h5 Figura 36
           br
           span.fst-italic  Biorreactor de membrana
         img(src='@/assets/curso/temas/tema2/61.png', alt='')
@@ -879,29 +883,29 @@
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         h4 Configuraciones básicas
-        p Membranas o sistemas sumergidos: las membranas se sitúan dentro del propio reactor biológico, eliminando las necesidades de bombeo y aprovechando la agitación mecánica de la aireación (Universidad de Alcalá, 2007), ver figura 38.
+        p Membranas o sistemas sumergidos: las membranas se sitúan dentro del propio reactor biológico, eliminando las necesidades de bombeo y aprovechando la agitación mecánica de la aireación (Universidad de Alcalá, 2007), ver figura 37.
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5  Figura 38
+          h5  Figura 37
           br
           span.fst-italic Membranas sumergidas
         img(src='@/assets/curso/temas/tema2/64.png', alt='')
         figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
       .col-lg-6(data-aos="fade-right")
         h4 Membranas externas o sistema de bucle externo 
-        p El contenido del reactor biológico se bombea al módulo de membranas. Las ventajas de este modelo residen en que el propio módulo de membranas sirve de contenedor de limpieza para las mismas y se evita su manipulación (Universidad de Alcalá, 2007), ver figura 39. 
+        p El contenido del reactor biológico se bombea al módulo de membranas. Las ventajas de este modelo residen en que el propio módulo de membranas sirve de contenedor de limpieza para las mismas y se evita su manipulación (Universidad de Alcalá, 2007), ver figura 38. 
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 39
+          h5 Figura 38
           br
           span.fst-italic Membranas externas 
         img(src='@/assets/curso/temas/tema2/65.png', alt='')
         figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Electrocoagulación
-    p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 40. 
+    p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 39. 
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 40 
+            h5 Figura 39 
             br 
             span.fst-italic Electrocoagulación
         img(src='@/assets/curso/temas/tema2/67.png', alt='')
@@ -916,7 +920,7 @@
           .row.justify-content-center.mb-5
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 41
+                h5 Figura 40
                 br
                 span.fst-italic Electrocoagulación
               img(src='@/assets/curso/temas/tema2/66.svg', alt='')
