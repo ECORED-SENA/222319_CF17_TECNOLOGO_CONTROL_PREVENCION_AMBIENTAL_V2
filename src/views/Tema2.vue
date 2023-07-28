@@ -398,23 +398,23 @@
           span.fst-italic  Sistema de flotación
         img(src='@/assets/curso/temas/tema2/21.png', alt='')
         figcaption Nota. Tomado de Aguas Sigma (2016). https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJB-E5CFFX1Cehh4NVp4a-E9Rer2hlmr0MSMTMPRjVTKW2M3U9 
-    .tarjeta.bg-slyde.p-5.mb-5
-      SlyderA(tipo='b')
-        .row
+    .tarjeta.bg-slyde.py-5.px-3.mb-5
+      SlyderA(tipo='b').slyder-2
+        .row.mx-3
           .col-lg-6.mb-4.mb-md-0
             h4 ¿En qué consiste la flotación?
             p En unir las burbujas de aire al material suspendido, causando una reducción neta del peso específico. Las burbujas de tamaño micrométrico se producen por disolución del aire en el agua residual a presiones elevadas, seguida por su posterior liberación a la presión atmosférica. Cuando la presión se reduce a las condiciones atmosféricas el aire disuelto presente en exceso hasta la saturación es liberado en forma de burbujas extremadamente finas que se adhieren a las materias en suspensión.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/22.png', alt='Texto que describa la imagen')
-        .row
+        .row.mx-3
           .col-lg-6.mb-4.mb-md-0
             h4 ¿Qué sistema se usa para la flotación? 
             p Los sólidos, grasas y flóculos flotan hacia la parte superior de la celda de flotación por aire disuelto y se eliminan mediante un dispositivo de barrido. Para el efecto de flotación se utiliza un sistema de presurización de agua recirculada. Dentro de ellos podemos encontrar el sistema de flotación por aire disuelto que se ha convertido en el sistema de clarificación de aguas más versátil (Aguas Sigma, 2016). 
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/23.png', alt='Texto que describa la imagen')
-        .row
+        .row.mx-3
           .col-lg-6.mb-4.mb-md-0
             h4  ¿Qué permiten solucionar los sistemas de flotación? 
             p Permiten dar solución a gran cantidad de necesidades como: 
@@ -446,7 +446,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/24.png', alt='Texto que describa la imagen')
               figcaption Nota. Tomado de El agua potable (s.f.). http://www.elaguapotable.com/decantacion.htm
-        .row
+        .row.mx-3
           .col-lg-6.mb-4.mb-md-0
             h4 ¿Qué es el sistema de flotación por aire inducido? 
             p Cuando el objetivo no es disponer de una gran eficiencia y calidad del agua y, la necesidad es disponer de un equipo robusto, fácil de utilizar, de bajo mantenimiento y económico, existe el sistema de flotación por aire inducido. En este el corazón del sistema es el inductor especial: el aireador impulsor gira creando un remolino y una depresión dentro de la celda que produce una aspiración del aire a través del eje hueco. El aire penetra en el líquido al llegar a la celda de aireación, mediante grandes cantidades de micro burbujas. La mezcla rica en aire es liberada en la celda de flotación facilitando la separación de fases (Aguas Sigma, 2016). 
