@@ -751,7 +751,7 @@
         .col-lg-6(data-aos="fade-left")
           .d-lg-block.d-none
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 29
+              h5 Figura 28
               br
               span.fst-italic  Esquema del sistema de biodiscos 
             img(src='@/assets/curso/temas/tema2/47.jpg', alt='')
@@ -759,14 +759,14 @@
       h4 Ruidos y otras variables 
       p.mb-5(data-aos='fade-right') El nivel de ruidos es muy bajo, factor que es muy importante tanto ambientalmente como por higiene y salud del personal. Las dimensiones de los depósitos de oxidación son menores que los utilizados por otros procesos. El rendimiento del proceso es más estable en épocas frías, debido al hecho de permanecer cubiertos los tanques. El consumo energético es muy reducido y a igualdad de resultados, comparándolo con un sistema de fangos activos, el consumo resulta ser la tercera parte Hidrometalica (s.f.). 
       h4 El funcionamiento de los biodiscos
-      p Se divide en cuatro etapas, ver figura 30. 
+      p Se divide en cuatro etapas, ver figura 29. 
       .row.justify-content-center.mb-5
         .col-lg-10
           .rounded-2.p-5(style="background-color: #dee9f0 ")
             .row.justify-content-center.mb-5
               .col-lg-8
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 30
+                  h5 Figura 29
                   br
                   span.fst-italic Biodiscos
                 img(src='@/assets/curso/temas/tema2/48.jpg', alt='')
@@ -775,18 +775,18 @@
       p.mb-0(data-aos='fade-right') El agua bruta de llegada entra a este tanque a través de la tubuladura de entrada, donde se produce una primera sedimentación de materia sólida. Los sólidos sedimentados se extraerán periódicamente por parte del usuario en la primera etapa donde se realiza la primera toma de contacto entre el agua bruta de entrada y los discos. La superficie de los discos se coloniza de forma natural, formando un recubrimiento visible. En la segunda etapa de contacto, gracias a la concepción del sistema de vertedero entre ambas etapas, se consigue un nivel de agua con menos fluctuaciones, favoreciendo el proceso y su salida hacia el “tanque de sedimentación secundaria”. Con el proceso de dos etapas se consigue aumentar el crecimiento de la biomasa de forma equilibrada y constante. En el tanque de sedimentación secundaria se produce la sedimentación de la materia sólida restante del proceso, a la cual se le realizan dos operaciones, la recirculación y extracción de sedimentos (Hidrometálica, s.f.). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Reactores biológicos secuenciales (SBR)
-    p.mb-5(data-aos='fade-right') Son reactores discontinuos en los que el agua residual se mezcla con un lodo biológico en un medio aireado. Se trata de un proceso que se combina en un mismo tanque: aeración/reacción y clarificación. La tecnología de los reactores biológicos secuenciales es una variante optimizada de la tecnología convencional de lodos activados. Se basa en el uso de un solo reactor que opera en forma discontinua secuencial. El sistema de los reactores biológicos secuenciales SBR consta de al menos cuatro procesos cíclicos: llenado, aireación, anoxia, decantación y vaciado, tanto de efluente como de los lodos. Esta tecnología es capaz de tolerar variaciones de carga y caudal y genera como producto lodos estabilizados, siendo en ocasiones, la tecnología más apropiada para la industria, ver figura 31 y 32. 
+    p.mb-5(data-aos='fade-right') Son reactores discontinuos en los que el agua residual se mezcla con un lodo biológico en un medio aireado. Se trata de un proceso que se combina en un mismo tanque: aeración/reacción y clarificación. La tecnología de los reactores biológicos secuenciales es una variante optimizada de la tecnología convencional de lodos activados. Se basa en el uso de un solo reactor que opera en forma discontinua secuencial. El sistema de los reactores biológicos secuenciales SBR consta de al menos cuatro procesos cíclicos: llenado, aireación, anoxia, decantación y vaciado, tanto de efluente como de los lodos. Esta tecnología es capaz de tolerar variaciones de carga y caudal y genera como producto lodos estabilizados, siendo en ocasiones, la tecnología más apropiada para la industria, ver figura 30 y 31. 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 31
+          h5 Figura 30
           br
           span.fst-italic Instalación con tecnología SBR 
         img(src='@/assets/curso/temas/tema2/49.png', alt='')
         figcaption Nota. Tomado de Aguas industriales (2015). Instalación con tecnología SBR.
       .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 32
+          h5 Figura 31
           br
           span.fst-italic Planta de tratamiento de aguas residuales reactor biológico secuencial (SBR)  
         img(src='@/assets/curso/temas/tema2/50.png', alt='')
@@ -811,22 +811,22 @@
           p #[b Vaciado:] extracción del agua clarificada del reactor. El exceso de lodo activado residual es removido; este proceso toma tiempo, puede tardar entre un 5% y un 30% del tiempo total (Domos agua, 2019). 
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Filtros verdes y humedales artificiales
-    p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 33.
+    p Un filtro verde consiste en una superficie de terreno donde se establece una plantación forestal o agrícola, a la que se suministra, de forma recurrente y programada, aguas residuales urbanas. Una parte de estas aguas se evapora a la atmósfera y el resto es absorbido por las raíces de las plantas o es filtrada a través del suelo (TECPA, 2018), ver figura 32.
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 33
+            h5 Figura 32
             br
             span.fst-italic Filtros verdes en depuración de aguas residuales. 
         img(src='@/assets/curso/temas/tema2/59.png', alt='')
         figcaption Nota. Tomado de TECPA (2018). https://www.tecpa.es/filtro-verde-depuracion-aguas-residuales
       .col-lg-8.mb-lg-0.mb-3(data-aos="fade-right")
         h4 Filtros verdes
-        p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 34.
+        p Un filtro verde provoca procesos físicos, químicos y biológicos naturales en el ecosistema suelo-agua. Estos procesos naturales reducen de forma considerable gran parte de los contaminantes del agua residual como: demanda biológica de oxígeno (DBO5), demanda química de oxígeno (DQO), sólidos suspendidos, nitrógeno, fósforo, y microorganismos patógenos (TECPA, 2018), ver figura 33.
         .row.justify-content-center.mb-5
           .col-lg-10 
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 34
+              h5 Figura 33
               br
               span.fst-italic Tratamiento de aguas residuales mediante humedales artificiales 
             img(src='@/assets/curso/temas/tema2/57.png', alt='')
@@ -835,10 +835,10 @@
       .row.justify-content-center.mb-5
         .col-lg-5.mb-lg-0.mb-3
           h4 Depuración de los filtros verdes 
-          p De acuerdo con la Universidad Veracruzana los mecanismos de depuración de los filtros verdes son, en primera instancia, los procesos físicos: granulometría y textura. Luego, procesos químicos: pH, capacidad de intercambio iónico, condiciones de aireación y encharcamiento. En tercer lugar, procesos biológicos: raíces, microorganismos (Universidad Veracruzana, s.f.), ver figura 35.
+          p De acuerdo con la Universidad Veracruzana los mecanismos de depuración de los filtros verdes son, en primera instancia, los procesos físicos: granulometría y textura. Luego, procesos químicos: pH, capacidad de intercambio iónico, condiciones de aireación y encharcamiento. En tercer lugar, procesos biológicos: raíces, microorganismos (Universidad Veracruzana, s.f.), ver figura 34.
         .col-lg-7
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 35
+            h5 Figura 34
             br
             span.fst-italic Bioingeniería
           img(src='@/assets/curso/temas/tema2/58.png', alt='')
@@ -847,10 +847,10 @@
       h4.mb-0  Reactor biológico de membrana (MBR)
     .row.justify-content-center.mb-5
       .col-lg-5.mb-lg-0.mb-3(data-aos="fade-right")
-        p #[b (Reactor biológico + ultrafiltración)] se incluyen en las denominadas tecnologías de membrana, las cuales han experimentado un gran desarrollo en la última década. La aplicación de estas tecnologías a los MBR permite la separación del fango y el líquido mediante membranas, obteniendo ventajas importantes frente a la separación en los tradicionales decantadores secundarios. El aumento de la demanda de agua ha impulsado la implantación de estos sistemas a escala real, especialmente en aquellos casos en que se plantea la posibilidad de reutilización de agua (Universidad de Alcalá, 2007), ver figura 36. 
+        p #[b (Reactor biológico + ultrafiltración)] se incluyen en las denominadas tecnologías de membrana, las cuales han experimentado un gran desarrollo en la última década. La aplicación de estas tecnologías a los MBR permite la separación del fango y el líquido mediante membranas, obteniendo ventajas importantes frente a la separación en los tradicionales decantadores secundarios. El aumento de la demanda de agua ha impulsado la implantación de estos sistemas a escala real, especialmente en aquellos casos en que se plantea la posibilidad de reutilización de agua (Universidad de Alcalá, 2007), ver figura 35. 
       .col-lg-7.col-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 36
+          h5 Figura 35
           br
           span.fst-italic  Biorreactor de membrana
         img(src='@/assets/curso/temas/tema2/61.png', alt='')
@@ -880,29 +880,29 @@
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3(data-aos="fade-right")
         h4 Configuraciones básicas
-        p Membranas o sistemas sumergidos: las membranas se sitúan dentro del propio reactor biológico, eliminando las necesidades de bombeo y aprovechando la agitación mecánica de la aireación (Universidad de Alcalá, 2007), ver figura 37.
+        p Membranas o sistemas sumergidos: las membranas se sitúan dentro del propio reactor biológico, eliminando las necesidades de bombeo y aprovechando la agitación mecánica de la aireación (Universidad de Alcalá, 2007), ver figura 36.
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5  Figura 37
+          h5  Figura 36
           br
           span.fst-italic Membranas sumergidas
         img(src='@/assets/curso/temas/tema2/64.png', alt='')
         figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
       .col-lg-6(data-aos="fade-right")
         h4 Membranas externas o sistema de bucle externo 
-        p El contenido del reactor biológico se bombea al módulo de membranas. Las ventajas de este modelo residen en que el propio módulo de membranas sirve de contenedor de limpieza para las mismas y se evita su manipulación (Universidad de Alcalá, 2007), ver figura 38. 
+        p El contenido del reactor biológico se bombea al módulo de membranas. Las ventajas de este modelo residen en que el propio módulo de membranas sirve de contenedor de limpieza para las mismas y se evita su manipulación (Universidad de Alcalá, 2007), ver figura 37. 
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 38
+          h5 Figura 37
           br
           span.fst-italic Membranas externas 
         img(src='@/assets/curso/temas/tema2/65.png', alt='')
         figcaption Nota. Tomado de la Universidad de Alcalá (2007). https://www.madrimasd.org/blogs/remtavares/2007/04/12/63351  
     .tarjeta.color-primario.rounded-pill.d-inline-block.m-auto.p-3.mb-4
       h4.mb-0 Electrocoagulación
-    p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 39. 
+    p El tratamiento por electrocoagulación en su esencia es similar a un proceso fisicoquímico de coagulación-floculación en el que es necesario añadir una serie de productos químicos, basados normalmente en sales metálicas para conseguir el proceso de coagulación, es decir, de desestabilización de los coloides responsables de la materia en suspensión (Hidritec, s.f.), ver figura 38. 
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Figura 39 
+            h5 Figura 38
             br 
             span.fst-italic Electrocoagulación
         img(src='@/assets/curso/temas/tema2/67.png', alt='')
@@ -917,7 +917,7 @@
           .row.justify-content-center.mb-5
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                h5 Figura 40
+                h5 Figura 39
                 br
                 span.fst-italic Electrocoagulación
               img(src='@/assets/curso/temas/tema2/66.svg', alt='')
