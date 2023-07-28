@@ -913,7 +913,7 @@
           h4 Desestabilización de los coloides 
           p.mb-5  Mediante el procedimiento de electrocoagulación se aplica una diferencia de potencial a unos electrodos metálicos (normalmente aluminio y/o hierro). De esta forma, se produce una rápida desestabilización de los coloides por aplicación eléctrica y disolución de iones metálicos de los electrodos empleados. 
           h4 Desinfección de bacterias, virus y parásitos 
-          p La consecuencia es una importante reducción en el contenido en sólidos en suspensión y eliminación de la DQO y DBO5, debido fundamentalmente a la desestabilización de los coloides, la decantación y separación de materia orgánica, aceites, grasas y metales pesados, así como iones, calcio y magnesio. Por otra parte, también se produce la desinfección de bacterias, virus o parásitos (Hidritec, s.f.), ver figura 40 un ejemplo gráfico de electrocoagulación. 
+          p La consecuencia es una importante reducción en el contenido en sólidos en suspensión y eliminación de la DQO y DBO5, debido fundamentalmente a la desestabilización de los coloides, la decantación y separación de materia orgánica, aceites, grasas y metales pesados, así como iones, calcio y magnesio. Por otra parte, también se produce la desinfección de bacterias, virus o parásitos (Hidritec, s.f.), ver figura 39 un ejemplo gráfico de electrocoagulación. 
           .row.justify-content-center.mb-5
             .col-lg-10
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
